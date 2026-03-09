@@ -29,10 +29,11 @@ const AboutSection = () => {
               unmatched quality and absolute value for money to its clients.
             </p>
             <p className="font-body text-muted-foreground leading-relaxed mb-8">
-              Be it pioneering concepts, providing good customer support or using some of the most
-              advanced technologies in design and construction, the Lalani Group has always been at
-              the forefront, cementing a strong brand image that speaks of trust and recognition
-              in the real estate industry.
+              Unlike previously where the value for a real estate was solely dependent on its location;
+              the real estate industry today is more about reputation. Be it pioneering concepts,
+              providing good customer support or using some of the most advanced technologies in design
+              and construction, the Lalani Group has always been at the forefront, therefore cementing
+              a strong brand image that speaks of trust and recognition in the real estate industry.
             </p>
             <a
               href="#contact"
@@ -49,8 +50,8 @@ const AboutSection = () => {
             transition={{ duration: 0.8 }}
             className="relative"
           >
-            <div className="glass-card rounded-2xl p-8 lg:p-10">
-              <h3 className="font-heading text-2xl font-bold text-foreground mb-6">
+            <div className="glass-card-premium rounded-2xl p-8 lg:p-10 shadow-2xl">
+              <h3 className="font-heading text-2xl font-bold gradient-gold-text mb-6">
                 Our Promise
               </h3>
               <ul className="space-y-4">
@@ -61,9 +62,9 @@ const AboutSection = () => {
                   "World-class amenities & modern design",
                   "Prime locations across Mumbai",
                 ].map((item, i) => (
-                  <li key={i} className="flex items-start gap-3">
-                    <span className="w-2 h-2 rounded-full bg-primary mt-2 shrink-0" />
-                    <span className="font-body text-secondary-foreground">{item}</span>
+                  <li key={i} className="flex items-start gap-3 group">
+                    <span className="w-2 h-2 rounded-full bg-primary mt-2 shrink-0 group-hover:scale-150 transition-transform duration-300" />
+                    <span className="font-body text-secondary-foreground group-hover:text-foreground transition-colors duration-300">{item}</span>
                   </li>
                 ))}
               </ul>

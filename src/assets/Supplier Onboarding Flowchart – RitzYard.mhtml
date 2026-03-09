@@ -1,0 +1,713 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/yurek/Downloads/lalanigroup-modernized-main/lalani/src/assets/Supplier%20Onboarding%20Flowchart%20%E2%80%93%20RitzYard.html
+Subject: =?utf-8?Q?Supplier=20Onboarding=20Flowchart=20=E2=80=93=20RitzYard?=
+Date: Wed, 4 Mar 2026 17:26:48 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--QBkFsgsGREkfy33aB7B6Txp4gd8slV4lGRdbjchIBC----"
+
+
+------MultipartBoundary--QBkFsgsGREkfy33aB7B6Txp4gd8slV4lGRdbjchIBC----
+Content-Type: text/html
+Content-ID: <frame-E05BE910EDF64C17139C00E580285DAC@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/yurek/Downloads/lalanigroup-modernized-main/lalani/src/assets/Supplier%20Onboarding%20Flowchart%20%E2%80%93%20RitzYard.html
+
+<!DOCTYPE html><!-- saved from url=3D(0089)file:///C:/Users/yurek/OneDrive/=
+Desktop/suppliermatrix/SUPPLIER_ONBOARDING_FLOWCHART.html --><html lang=3D"=
+en"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-0ee381=
+95-82d7-4475-a7f4-d81b45746f82@mhtml.blink" />
+
+<title>Supplier Onboarding Flowchart =E2=80=93 RitzYard</title>
+
+</head>
+<body>
+
+<div class=3D"page-title">
+  <h1>=F0=9F=8F=AD Supplier Onboarding =E2=80=94 Cross-Functional Flowchart=
+</h1>
+  <p>RitzYard =C2=B7 Operational reference =C2=B7 Who does what, at every s=
+tep</p>
+</div>
+
+<!-- LEGEND -->
+<div class=3D"legend">
+  <div class=3D"leg"><div class=3D"leg-oval" style=3D"background:#dcfce7;bo=
+rder-color:#15803d"></div>Start / End</div>
+  <div class=3D"leg"><div class=3D"leg-rect" style=3D"background:#bbf7d0;bo=
+rder-color:#15803d"></div>Supplier Action</div>
+  <div class=3D"leg"><div class=3D"leg-rect" style=3D"background:#bfdbfe;bo=
+rder-color:#1d4ed8"></div>System / Auto</div>
+  <div class=3D"leg"><div class=3D"leg-rect" style=3D"background:#fecaca;bo=
+rder-color:#b91c1c"></div>Admin / Ops Action</div>
+  <div class=3D"leg"><div class=3D"leg-dia" style=3D"background:#bfdbfe;bor=
+der-color:#1d4ed8"></div>Decision Point</div>
+  <div class=3D"leg"><div class=3D"leg-rect" style=3D"background:#fef9c3;bo=
+rder-color:#b45309"></div>Warning / Condition</div>
+</div>
+
+<!-- CHART -->
+<div class=3D"chart">
+  <div class=3D"chart-header">=F0=9F=8F=AD &nbsp; RitzYard =E2=80=94 Suppli=
+er Onboarding Process Flow</div>
+
+  <!-- LANE HEADERS -->
+  <div class=3D"lane-headers">
+    <div class=3D"lh s"><span class=3D"lh-icon">=F0=9F=A7=91=E2=80=8D=F0=9F=
+=92=BC</span>SUPPLIER</div>
+    <div class=3D"lh c"><span class=3D"lh-icon">=E2=9A=99=EF=B8=8F</span>SY=
+STEM (AUTO)</div>
+    <div class=3D"lh a"><span class=3D"lh-icon">=F0=9F=91=A8=E2=80=8D=F0=9F=
+=92=BB</span>ADMIN / OPS TEAM</div>
+  </div>
+
+  <!-- =E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90 SWIM LANE ROWS =E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=
+=90=E2=95=90=E2=95=90 -->
+  <!-- Using an SVG-based approach for clean visual arrows between lanes --=
+>
+  <div style=3D"position:relative;background:#fff;">
+  <svg id=3D"svg-conn" class=3D"connector-layer" style=3D"display:none"></s=
+vg>
+
+  <!-- =E2=94=80=E2=94=80 R1: START =E2=94=80=E2=94=80 -->
+  <div style=3D"display:grid;grid-template-columns:1fr 1fr 1fr;border-botto=
+m:1px dashed #e2e8f0">
+    <div class=3D"lane s" style=3D"padding-top:28px;padding-bottom:20px">
+      <div class=3D"shape">
+        <div class=3D"oval start">=F0=9F=9A=80 Supplier Visits<br>ritzyards=
+eller.com</div>
+      </div>
+      <div class=3D"arr" style=3D"margin-top:6px">
+        <div class=3D"ln" style=3D"height:14px"></div>
+        <div class=3D"lbl">Clicks "Join as Supplier"</div>
+        <div class=3D"ln" style=3D"height:10px"></div>
+        <div class=3D"tip"></div>
+      </div>
+      <div class=3D"shape" style=3D"margin-top:2px">
+        <div class=3D"box s">
+          =F0=9F=8F=A2 <strong>STEP 1 =E2=80=94 Company Info</strong>
+          <span class=3D"sub">Company Name =C2=B7 Email =C2=B7 Phone<br>Con=
+tact Person =C2=B7 Business Type<br>Create Password =C2=B7 Accept T&amp;C</=
+span>
+        </div>
+      </div>
+      <div class=3D"arr" style=3D"margin-top:6px">
+        <div class=3D"ln" style=3D"height:10px"></div>
+        <div class=3D"lbl">Click "Continue =E2=86=92"</div>
+        <div class=3D"ln" style=3D"height:8px"></div>
+        <div class=3D"tip"></div>
+      </div>
+      <div class=3D"shape" style=3D"margin-top:2px">
+        <div class=3D"box s">
+          =F0=9F=93=8B <strong>STEP 2 =E2=80=94 Business Details</strong>
+          <span class=3D"sub">Business Description<br>Products / Services O=
+ffered<br>Years in Business =C2=B7 Address<br>City =C2=B7 State =C2=B7 Pinc=
+ode</span>
+        </div>
+      </div>
+      <div class=3D"arr" style=3D"margin-top:6px">
+        <div class=3D"ln" style=3D"height:10px"></div>
+        <div class=3D"lbl">Click "Continue =E2=86=92"</div>
+        <div class=3D"ln" style=3D"height:8px"></div>
+        <div class=3D"tip"></div>
+      </div>
+      <div class=3D"shape" style=3D"margin-top:2px">
+        <div class=3D"box s">
+          =F0=9F=93=8E <strong>STEP 3 =E2=80=94 Upload Documents</strong>
+          <span class=3D"sub">=F0=9F=AA=AA PAN Card <b style=3D"color:#b91c=
+1c">(Required)</b><br>=F0=9F=86=94 Aadhaar =C2=B7 =F0=9F=92=B0 GST<br>=F0=
+=9F=8F=A6 Bank Proof =C2=B7 =F0=9F=96=BC=EF=B8=8F Logo</span>
+        </div>
+      </div>
+      <div class=3D"arr" style=3D"margin-top:6px">
+        <div class=3D"ln" style=3D"height:10px"></div>
+        <div class=3D"lbl">Click "Submit Application"</div>
+        <div class=3D"ln" style=3D"height:8px"></div>
+        <div class=3D"tip"></div>
+      </div>
+      <div class=3D"shape" style=3D"margin-top:2px">
+        <div class=3D"box s">
+          =F0=9F=93=A4 <strong>Application Submitted</strong>
+          <span class=3D"sub">Supplier confirms &amp; clicks final submit</=
+span>
+        </div>
+      </div>
+    </div>
+
+    <!-- SYSTEM LANE -->
+    <div class=3D"lane c" style=3D"padding-top:28px;padding-bottom:20px">
+
+      <!-- Validate Step 1 -->
+      <div style=3D"height:80px"></div><!-- align with step 1 box -->
+
+      <div style=3D"margin-top:40px;display:flex;flex-direction:column;alig=
+n-items:center">
+        <div style=3D"font-size:10px;font-weight:700;color:#1d4ed8;margin-b=
+ottom:4px">=E2=AC=85 Checks form on Continue</div>
+        <div class=3D"shape">
+          <div class=3D"dia-wrap">
+            <div class=3D"dia c"><div class=3D"dia-text">Step 1<br>Fields<b=
+r>OK?</div></div>
+          </div>
+        </div>
+        <div style=3D"display:flex;align-items:center;gap:6px;margin-top:2p=
+x">
+          <div class=3D"yn y">YES</div>
+          <span style=3D"font-size:10px;color:#15803d;font-weight:700">Proc=
+eed to Step 2</span>
+        </div>
+        <div class=3D"arr" style=3D"margin-top:4px;width:40px">
+          <div class=3D"ln" style=3D"height:14px"></div>
+          <div class=3D"tip"></div>
+        </div>
+        <div style=3D"margin-top:4px;font-size:10px;font-weight:700;backgro=
+und:#fee2e2;color:#b91c1c;
+          padding:5px 10px;border-radius:8px;text-align:center;width:175px"=
+>
+          =E2=9D=8C NO =E2=86=92 Show error message<br>Supplier fixes &amp;=
+ retries
+        </div>
+      </div>
+
+      <!-- PAN check -->
+      <div style=3D"margin-top:100px;display:flex;flex-direction:column;ali=
+gn-items:center">
+        <div style=3D"font-size:10px;font-weight:700;color:#1d4ed8;margin-b=
+ottom:4px">=E2=AC=85 Checks on Submit click</div>
+        <div class=3D"shape">
+          <div class=3D"dia-wrap">
+            <div class=3D"dia c"><div class=3D"dia-text">PAN Card<br>Upload=
+ed?</div></div>
+          </div>
+        </div>
+        <div style=3D"display:flex;align-items:center;gap:6px;margin-top:2p=
+x">
+          <div class=3D"yn y">YES</div>
+          <span style=3D"font-size:10px;color:#15803d;font-weight:700">Allo=
+w submit</span>
+        </div>
+        <div class=3D"arr" style=3D"margin-top:4px;width:40px">
+          <div class=3D"ln" style=3D"height:14px"></div>
+          <div class=3D"tip"></div>
+        </div>
+        <div style=3D"margin-top:4px;font-size:10px;font-weight:700;backgro=
+und:#fee2e2;color:#b91c1c;
+          padding:5px 10px;border-radius:8px;text-align:center;width:175px"=
+>
+          =E2=9D=8C NO =E2=86=92 Submit button disabled<br>Error shown to s=
+upplier
+        </div>
+      </div>
+
+      <!-- Duplicate check -->
+      <div style=3D"margin-top:60px;display:flex;flex-direction:column;alig=
+n-items:center">
+        <div style=3D"font-size:10px;font-weight:700;color:#1d4ed8;margin-b=
+ottom:4px">=E2=AC=85 After submit received</div>
+        <div class=3D"shape">
+          <div class=3D"dia-wrap">
+            <div class=3D"dia c"><div class=3D"dia-text">Email<br>Already<b=
+r>Exists?</div></div>
+          </div>
+        </div>
+        <div style=3D"display:flex;align-items:center;gap:6px;margin-top:2p=
+x">
+          <div class=3D"yn n">NO</div>
+          <span style=3D"font-size:10px;color:#15803d;font-weight:700">New =
+supplier =E2=80=94 save</span>
+        </div>
+        <div class=3D"arr" style=3D"margin-top:4px;width:40px">
+          <div class=3D"ln" style=3D"height:14px"></div>
+          <div class=3D"tip"></div>
+        </div>
+        <div style=3D"margin-top:4px;font-size:10px;font-weight:700;backgro=
+und:#fee2e2;color:#b91c1c;
+          padding:5px 10px;border-radius:8px;text-align:center;width:175px"=
+>
+          =E2=9C=85 YES =E2=86=92 Error: "Email already<br>registered" =E2=
+=80=94 resubmit with new email
+        </div>
+      </div>
+
+      <!-- Store & emails -->
+      <div style=3D"margin-top:30px;display:flex;flex-direction:column;alig=
+n-items:center">
+        <div class=3D"shape">
+          <div class=3D"box c">
+            =F0=9F=92=BE <strong>System Stores Application</strong>
+            <span class=3D"sub">Saves all fields &amp; documents<br>Encrypt=
+s password<br>Sets status =E2=86=92 <b>"Pending"</b></span>
+          </div>
+        </div>
+        <div class=3D"arr" style=3D"margin-top:6px">
+          <div class=3D"ln" style=3D"height:12px"></div>
+          <div class=3D"tip"></div>
+        </div>
+        <div class=3D"shape" style=3D"margin-top:4px">
+          <div class=3D"box c">
+            =F0=9F=93=A9 <strong>Auto Emails Sent</strong>
+            <span class=3D"sub">=E2=86=92 Supplier: "Application received"<=
+br>=E2=86=92 Admin: "New application alert"</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ADMIN LANE -->
+    <div class=3D"lane a" style=3D"padding-top:28px;padding-bottom:20px">
+      <div style=3D"height:520px"></div><!-- push down to align with email =
+row -->
+
+      <div style=3D"display:flex;flex-direction:column;align-items:center">
+        <div style=3D"font-size:10px;font-weight:700;color:#b91c1c;margin-b=
+ottom:6px">Gets notification =E2=86=91</div>
+        <div class=3D"shape">
+          <div class=3D"box a">
+            =F0=9F=94=8E <strong>Admin Reviews Application</strong>
+            <span class=3D"sub">Admin Panel =E2=86=92 Supplier Mgmt<br>View=
+s: PAN =C2=B7 GST =C2=B7 Bank proof<br>Checks legitimacy &amp; documents</s=
+pan>
+          </div>
+        </div>
+        <div class=3D"arr" style=3D"margin-top:6px">
+          <div class=3D"ln" style=3D"height:12px"></div>
+          <div class=3D"tip"></div>
+        </div>
+
+        <!-- DECISION: APPROVE or REJECT -->
+        <div class=3D"shape">
+          <div class=3D"dia-wrap">
+            <div class=3D"dia a"><div class=3D"dia-text">Application<br>App=
+roved?</div></div>
+          </div>
+        </div>
+
+        <!-- YES branch -->
+        <div style=3D"display:flex;align-items:center;gap:6px;margin-top:4p=
+x">
+          <div class=3D"yn y">YES</div>
+          <span style=3D"font-size:10px;color:#15803d;font-weight:700">Clic=
+k "Approve"</span>
+        </div>
+        <div class=3D"arr" style=3D"margin-top:4px;width:40px">
+          <div class=3D"ln" style=3D"height:14px"></div>
+          <div class=3D"tip"></div>
+        </div>
+        <div class=3D"shape" style=3D"margin-top:4px">
+          <div class=3D"box a">
+            =E2=9C=85 <strong>Admin Marks Approved</strong>
+            <span class=3D"sub">Status changes to "Approved"<br>System auto=
+-sends approval email</span>
+          </div>
+        </div>
+
+        <!-- NO branch -->
+        <div style=3D"margin-top:14px;display:flex;align-items:center;gap:6=
+px">
+          <div class=3D"yn n">NO</div>
+          <span style=3D"font-size:10px;color:#b91c1c;font-weight:700">Clic=
+k "Reject"</span>
+        </div>
+        <div class=3D"arr" style=3D"margin-top:4px;width:40px">
+          <div class=3D"ln" style=3D"height:14px"></div>
+          <div class=3D"tip"></div>
+        </div>
+        <div class=3D"shape" style=3D"margin-top:4px">
+          <div class=3D"box a">
+            =E2=9D=8C <strong>Admin Marks Rejected</strong>
+            <span class=3D"sub">Enters rejection reason<br>System sends rej=
+ection email</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- =E2=94=80=E2=94=80 OUTCOME ROW =E2=94=80=E2=94=80 -->
+  <div style=3D"display:grid;grid-template-columns:1fr 1fr 1fr;
+    border-top:3px solid #e2e8f0;background:#f8fafc">
+
+    <!-- Approved outcome -->
+    <div class=3D"lane s" style=3D"padding:20px 14px 28px;border-bottom:non=
+e">
+      <div style=3D"font-size:10px;font-weight:700;color:#15803d;margin-bot=
+tom:8px">
+        =E2=86=99 Approval email received
+      </div>
+      <div class=3D"shape">
+        <div class=3D"box s">
+          =F0=9F=93=A7 <strong>Supplier Gets Approval Email</strong>
+          <span class=3D"sub">Login credentials now active</span>
+        </div>
+      </div>
+      <div class=3D"arr" style=3D"margin-top:6px">
+        <div class=3D"ln" style=3D"height:12px"></div>
+        <div class=3D"tip"></div>
+      </div>
+      <div class=3D"shape" style=3D"margin-top:4px">
+        <div class=3D"box s">
+          =F0=9F=94=91 <strong>Supplier Logs In</strong>
+          <span class=3D"sub">Email + password from registration</span>
+        </div>
+      </div>
+      <div class=3D"arr" style=3D"margin-top:6px">
+        <div class=3D"ln" style=3D"height:12px"></div>
+        <div class=3D"tip"></div>
+      </div>
+      <div class=3D"shape" style=3D"margin-top:4px">
+        <div class=3D"oval end-g">
+          =F0=9F=8E=89 <strong>SUPPLIER IS LIVE!</strong><br>
+          <span style=3D"font-size:10px;font-weight:500">List products =C2=
+=B7 Get buyer RFQs<br>Manage orders =C2=B7 Receive payments</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Middle spacer -->
+    <div class=3D"lane c" style=3D"border-bottom:none;padding:20px 14px 28p=
+x;justify-content:flex-start">
+      <div style=3D"font-size:11px;font-weight:700;color:#1d4ed8;text-align=
+:center;
+        background:#eff6ff;padding:10px 14px;border-radius:10px;border:1px =
+solid #bfdbfe;margin-top:10px">
+        =E2=9A=99=EF=B8=8F System sends outcome email<br>automatically to s=
+upplier
+      </div>
+    </div>
+
+    <!-- Rejected outcome -->
+    <div class=3D"lane a" style=3D"border-bottom:none;padding:20px 14px 28p=
+x;justify-content:flex-start">
+      <div style=3D"font-size:10px;font-weight:700;color:#b91c1c;margin-bot=
+tom:8px">
+        Rejection email sent to supplier =E2=86=93
+      </div>
+      <div class=3D"shape">
+        <div class=3D"box w">
+          =F0=9F=94=84 <strong>Supplier Can Re-Apply</strong>
+          <span class=3D"sub">Fix documents or info<br>Re-submit from Step =
+1</span>
+        </div>
+      </div>
+      <div class=3D"arr" style=3D"margin-top:6px">
+        <div class=3D"ln" style=3D"height:12px"></div>
+        <div class=3D"tip"></div>
+      </div>
+      <div class=3D"shape" style=3D"margin-top:4px">
+        <div class=3D"oval end-r">
+          =F0=9F=94=B4 Application Closed<br>
+          <span style=3D"font-size:10px;font-weight:500">If supplier does n=
+ot re-apply</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </div><!-- end chart inner -->
+</div><!-- end .chart -->
+
+<!-- =E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=
+=90 TIMELINE =E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=
+=90=E2=95=90 -->
+<div style=3D"max-width:1040px;margin:24px auto 0;background:#fff;border-ra=
+dius:14px;
+  border:2px solid #e2e8f0;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0=
+,.06)">
+  <div style=3D"background:#1e3a5f;color:#fff;padding:12px 20px;font-size:1=
+3px;font-weight:800">
+    =E2=8F=B1=EF=B8=8F &nbsp; How Long Does the Whole Process Take?
+  </div>
+  <div class=3D"timeline">
+    <div class=3D"tl-item g">
+      <div class=3D"tl-icon">=F0=9F=93=9D</div>
+      <div class=3D"tl-val">5=E2=80=9310 min</div>
+      <div class=3D"tl-desc">Fill all 3 steps of the form</div>
+    </div>
+    <div class=3D"tl-item b">
+      <div class=3D"tl-icon">=E2=9A=A1</div>
+      <div class=3D"tl-val">Instant</div>
+      <div class=3D"tl-desc">Auto-submitted &amp; saved by system</div>
+    </div>
+    <div class=3D"tl-item o">
+      <div class=3D"tl-icon">=F0=9F=94=8E</div>
+      <div class=3D"tl-val">24=E2=80=9348 hrs</div>
+      <div class=3D"tl-desc">Admin review &amp; decision</div>
+    </div>
+    <div class=3D"tl-item p">
+      <div class=3D"tl-icon">=F0=9F=9A=80</div>
+      <div class=3D"tl-val">Go Live!</div>
+      <div class=3D"tl-desc">Start receiving buyer inquiries</div>
+    </div>
+  </div>
+</div>
+
+<!-- =E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=
+=90 DOCUMENTS TABLE =E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=
+=E2=95=90=E2=95=90 -->
+<div style=3D"max-width:1040px;margin:20px auto 0;background:#fff;border-ra=
+dius:14px;
+  border:2px solid #e2e8f0;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0=
+,.06)">
+  <div style=3D"background:#1e3a5f;color:#fff;padding:12px 20px;font-size:1=
+3px;font-weight:800">
+    =F0=9F=93=8E &nbsp; Documents Required at Step 3
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th></th><th>Document</th><th>Required?</th>
+        <th>Format</th><th>Max Size</th><th>Purpose</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>=F0=9F=AA=AA</td><td><b>PAN Card</b></td><td><span class=3D"r=
+b r">=E2=9A=A0=EF=B8=8F REQUIRED</span></td><td>PDF, JPG, PNG</td><td>5 MB<=
+/td><td>Cannot submit without this</td></tr>
+      <tr><td>=F0=9F=86=94</td><td>Aadhaar Card</td><td><span class=3D"rb o=
+">Optional</span></td><td>PDF, JPG, PNG</td><td>5 MB</td><td>Owner identity=
+ proof</td></tr>
+      <tr><td>=F0=9F=92=B0</td><td>GST Certificate</td><td><span class=3D"r=
+b o">Optional</span></td><td>PDF, JPG, PNG</td><td>5 MB</td><td>For GST-reg=
+istered businesses</td></tr>
+      <tr><td>=F0=9F=8F=A6</td><td>Bank Proof</td><td><span class=3D"rb o">=
+Optional</span></td><td>PDF, JPG, PNG</td><td>5 MB</td><td>Cancelled cheque=
+ / passbook</td></tr>
+      <tr><td>=F0=9F=96=BC=EF=B8=8F</td><td>Company Logo</td><td><span clas=
+s=3D"rb o">Optional</span></td><td>JPG, PNG</td><td>5 MB</td><td>200=C3=972=
+00 px recommended</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<footer>RitzYard =C2=B7 Supplier Onboarding Cross-Functional Flowchart =C2=
+=B7 Operational Reference</footer>
+
+
+
+</body></html>
+------MultipartBoundary--QBkFsgsGREkfy33aB7B6Txp4gd8slV4lGRdbjchIBC----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-0ee38195-82d7-4475-a7f4-d81b45746f82@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+body { font-family: "Segoe UI", Arial, sans-serif; background: rgb(240, 244=
+, 248); padding: 30px 20px 60px; }
+
+.page-title { text-align: center; margin-bottom: 24px; }
+
+.page-title h1 { font-size: 28px; font-weight: 900; color: rgb(30, 41, 59);=
+ margin-bottom: 6px; }
+
+.page-title p { font-size: 13px; color: rgb(100, 116, 139); }
+
+.legend { display: flex; flex-wrap: wrap; justify-content: center; gap: 14p=
+x; margin-bottom: 22px; }
+
+.leg { display: flex; align-items: center; gap: 7px; font-size: 12px; font-=
+weight: 600; color: rgb(51, 65, 85); }
+
+.leg-oval { width: 32px; height: 16px; border-radius: 20px; border: 2px sol=
+id; }
+
+.leg-rect { width: 28px; height: 16px; border-radius: 4px; border: 2px soli=
+d; }
+
+.leg-dia { width: 14px; height: 14px; transform: rotate(45deg); border-radi=
+us: 2px; border: 2px solid; }
+
+.chart { background: rgb(255, 255, 255); border: 2px solid rgb(203, 213, 22=
+5); border-radius: 16px; overflow: hidden; max-width: 1040px; margin: 0px a=
+uto; box-shadow: rgba(0, 0, 0, 0.1) 0px 8px 32px; }
+
+.chart-header { background: rgb(30, 58, 95); color: rgb(255, 255, 255); tex=
+t-align: center; padding: 14px 20px; font-size: 17px; font-weight: 800; let=
+ter-spacing: 0.4px; }
+
+.lane-headers { display: grid; grid-template-columns: 1fr 1fr 1fr; border-b=
+ottom: 3px solid rgb(203, 213, 225); }
+
+.lh { text-align: center; padding: 14px 8px; font-size: 13px; font-weight: =
+800; color: rgb(255, 255, 255); text-transform: uppercase; letter-spacing: =
+0.8px; }
+
+.lh:not(:last-child) { border-right: 2px solid rgba(255, 255, 255, 0.25); }
+
+.lh-icon { font-size: 22px; display: block; margin-bottom: 4px; }
+
+.lh.s { background: rgb(21, 128, 61); }
+
+.lh.c { background: rgb(29, 78, 216); }
+
+.lh.a { background: rgb(185, 28, 28); }
+
+.lane-body { display: grid; grid-template-columns: 1fr 1fr 1fr; position: r=
+elative; }
+
+.lane { padding: 18px 14px; border-right: 2px dashed rgb(226, 232, 240); di=
+splay: flex; flex-direction: column; align-items: center; gap: 0px; min-hei=
+ght: 100px; }
+
+.lane:last-child { border-right: none; }
+
+.lane.s { background: rgb(240, 253, 244); }
+
+.lane.c { background: rgb(239, 246, 255); }
+
+.lane.a { background: rgb(255, 241, 242); }
+
+.connector-layer { position: absolute; top: 0px; left: 0px; width: 100%; he=
+ight: 100%; pointer-events: none; z-index: 10; overflow: visible; }
+
+.shape { display: flex; flex-direction: column; align-items: center; justif=
+y-content: center; text-align: center; position: relative; z-index: 5; }
+
+.oval { border-radius: 60px; border: 3px solid; padding: 10px 18px; font-si=
+ze: 12px; font-weight: 800; line-height: 1.4; width: 170px; cursor: default=
+; }
+
+.oval:hover { filter: brightness(0.95); }
+
+.oval.start { background: rgb(220, 252, 231); border-color: rgb(21, 128, 61=
+); color: rgb(20, 83, 45); }
+
+.oval.end-g { background: rgb(220, 252, 231); border-color: rgb(21, 128, 61=
+); color: rgb(20, 83, 45); }
+
+.oval.end-r { background: rgb(254, 226, 226); border-color: rgb(185, 28, 28=
+); color: rgb(127, 29, 29); }
+
+.box { border-radius: 8px; border: 2.5px solid; padding: 11px 14px; font-si=
+ze: 11.5px; font-weight: 700; line-height: 1.45; width: 184px; cursor: defa=
+ult; }
+
+.box:hover { filter: brightness(0.96); transform: translateY(-1px); transit=
+ion: 0.15s; }
+
+.box .sub { font-size: 10px; font-weight: 500; color: rgba(0, 0, 0, 0.55); =
+margin-top: 5px; line-height: 1.4; display: block; }
+
+.box.s { background: rgb(187, 247, 208); border-color: rgb(21, 128, 61); co=
+lor: rgb(20, 83, 45); }
+
+.box.c { background: rgb(191, 219, 254); border-color: rgb(29, 78, 216); co=
+lor: rgb(30, 58, 95); }
+
+.box.a { background: rgb(254, 202, 202); border-color: rgb(185, 28, 28); co=
+lor: rgb(127, 29, 29); }
+
+.box.w { background: rgb(254, 249, 195); border-color: rgb(180, 83, 9); col=
+or: rgb(120, 53, 15); }
+
+.dia-wrap { width: 140px; height: 130px; position: relative; flex-shrink: 0=
+; }
+
+.dia { width: 94px; height: 94px; transform: rotate(45deg); border-radius: =
+10px; border: 3px solid; position: absolute; top: 18px; left: 23px; display=
+: flex; align-items: center; justify-content: center; }
+
+.dia.c { background: rgb(191, 219, 254); border-color: rgb(29, 78, 216); }
+
+.dia.a { background: rgb(254, 202, 202); border-color: rgb(185, 28, 28); }
+
+.dia-text { transform: rotate(-45deg); font-size: 10px; font-weight: 800; l=
+ine-height: 1.3; text-align: center; padding: 4px; }
+
+.dia.c .dia-text { color: rgb(30, 58, 95); }
+
+.dia.a .dia-text { color: rgb(127, 29, 29); }
+
+.arr { display: flex; flex-direction: column; align-items: center; width: 1=
+00%; }
+
+.arr .ln { width: 2px; background: rgb(71, 85, 105); }
+
+.arr .tip { width: 0px; height: 0px; border-left: 7px solid transparent; bo=
+rder-right: 7px solid transparent; border-top: 11px solid rgb(71, 85, 105);=
+ }
+
+.arr .lbl { font-size: 10px; font-weight: 700; color: rgb(71, 85, 105); tex=
+t-transform: uppercase; letter-spacing: 0.8px; margin: 2px 0px; }
+
+.yn { width: 26px; height: 26px; border-radius: 50%; display: flex; align-i=
+tems: center; justify-content: center; font-size: 9.5px; font-weight: 900; =
+color: rgb(255, 255, 255); flex-shrink: 0; }
+
+.yn.y { background: rgb(21, 128, 61); }
+
+.yn.n { background: rgb(185, 28, 28); }
+
+.sp { height: 10px; width: 100%; }
+
+.bottom { max-width: 1040px; margin: 26px auto 0px; display: grid; grid-tem=
+plate-columns: 1fr 1fr; gap: 20px; }
+
+@media (max-width: 700px) {
+  .bottom { grid-template-columns: 1fr; }
+}
+
+.card { background: rgb(255, 255, 255); border-radius: 14px; border: 2px so=
+lid rgb(226, 232, 240); overflow: hidden; box-shadow: rgba(0, 0, 0, 0.06) 0=
+px 2px 10px; }
+
+.card-hd { padding: 12px 18px; font-size: 13px; font-weight: 800; color: rg=
+b(255, 255, 255); }
+
+.card-hd.green { background: rgb(21, 128, 61); }
+
+.card-hd.blue { background: rgb(29, 78, 216); }
+
+.card-hd.orange { background: rgb(180, 83, 9); }
+
+.card-hd.red { background: rgb(185, 28, 28); }
+
+table { width: 100%; border-collapse: collapse; }
+
+th { background: rgb(248, 250, 252); padding: 9px 14px; font-size: 11px; fo=
+nt-weight: 700; color: rgb(100, 116, 139); text-align: left; border-bottom:=
+ 2px solid rgb(226, 232, 240); text-transform: uppercase; letter-spacing: 0=
+.5px; }
+
+td { padding: 9px 14px; font-size: 12px; color: rgb(51, 65, 85); border-bot=
+tom: 1px solid rgb(241, 245, 249); }
+
+tr:last-child td { border-bottom: none; }
+
+.rb { display: inline-block; padding: 2px 9px; border-radius: 20px; font-si=
+ze: 10px; font-weight: 700; }
+
+.rb.r { background: rgb(254, 226, 226); color: rgb(185, 28, 28); }
+
+.rb.o { background: rgb(241, 245, 249); color: rgb(100, 116, 139); }
+
+.timeline { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0px;=
+ }
+
+.tl-item { padding: 14px 12px; text-align: center; border-right: 1px solid =
+rgb(226, 232, 240); }
+
+.tl-item:last-child { border-right: none; }
+
+.tl-icon { font-size: 24px; margin-bottom: 6px; }
+
+.tl-val { font-size: 18px; font-weight: 900; margin-bottom: 3px; }
+
+.tl-desc { font-size: 10px; color: rgb(100, 116, 139); }
+
+.tl-item.g .tl-val { color: rgb(21, 128, 61); }
+
+.tl-item.b .tl-val { color: rgb(29, 78, 216); }
+
+.tl-item.o .tl-val { color: rgb(180, 83, 9); }
+
+.tl-item.p .tl-val { color: rgb(124, 58, 237); }
+
+footer { text-align: center; margin-top: 28px; font-size: 11px; color: rgb(=
+148, 163, 184); }
+------MultipartBoundary--QBkFsgsGREkfy33aB7B6Txp4gd8slV4lGRdbjchIBC------

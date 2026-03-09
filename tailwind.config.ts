@@ -14,8 +14,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        heading: ['Playfair Display', 'Georgia', 'serif'],
-        body: ['DM Sans', 'system-ui', 'sans-serif'],
+        heading: ['Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif'],
+        body: ['Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -55,15 +55,31 @@ export default {
           DEFAULT: "hsl(var(--gold))",
           light: "hsl(var(--gold-light))",
           dark: "hsl(var(--gold-dark))",
+          accent: "hsl(var(--gold-accent))",
         },
         navy: {
           DEFAULT: "hsl(var(--navy))",
           light: "hsl(var(--navy-light))",
           medium: "hsl(var(--navy-medium))",
+          accent: "hsl(var(--navy-accent))",
         },
         cream: {
           DEFAULT: "hsl(var(--cream))",
           muted: "hsl(var(--cream-muted))",
+          dark: "hsl(var(--cream-dark))",
+        },
+        warm: {
+          brown: "hsl(var(--warm-brown))",
+          beige: "hsl(var(--warm-beige))",
+          light: "hsl(var(--warm-light))",
+        },
+        text: {
+          primary: "hsl(var(--text-primary))",
+          secondary: "hsl(var(--text-secondary))",
+          muted: "hsl(var(--text-muted))",
+          light: "hsl(var(--text-light))",
+          heading: "hsl(var(--text-heading))",
+          accent: "hsl(var(--text-accent))",
         },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",

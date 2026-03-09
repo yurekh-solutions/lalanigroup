@@ -1,0 +1,1344 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/yurek/OneDrive/Desktop/suppliermatrix/SUPPLIER_ONBOARDING_DIAGRAM.html
+Subject: Supplier Onboarding Flowchart - RitzYard
+Date: Wed, 4 Mar 2026 17:46:25 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--PPT4T84Ef5RjYLAr1OxYDOsWkMINkRhDxtiNcVpuCV----"
+
+
+------MultipartBoundary--PPT4T84Ef5RjYLAr1OxYDOsWkMINkRhDxtiNcVpuCV----
+Content-Type: text/html
+Content-ID: <frame-87D3EB01E1637AD9FE11C0AD1CFE9881@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/yurek/OneDrive/Desktop/suppliermatrix/SUPPLIER_ONBOARDING_DIAGRAM.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-20e68a93-1488-44a2-be13-8d02f5d3219d@mhtml.blink" />
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <title>Supplier Onboarding Flowchart - RitzYard</title>
+ =20
+ =20
+</head>
+<body>
+
+<button class=3D"print-btn">Save as PDF</button>
+
+<div class=3D"container">
+  <div class=3D"header">
+    <h1>=F0=9F=8F=AD Supplier Onboarding Flowchart</h1>
+    <p>RitzYard - Complete Process Flow</p>
+  </div>
+ =20
+  <div class=3D"legend">
+    <div class=3D"legend-item">
+      <div class=3D"legend-oval" style=3D"background:#dcfce7;border:2px sol=
+id #15803d"></div>
+      <span>Start/End</span>
+    </div>
+    <div class=3D"legend-item">
+      <div class=3D"legend-box" style=3D"background:#bbf7d0;border:2px soli=
+d #15803d"></div>
+      <span>Supplier Action</span>
+    </div>
+    <div class=3D"legend-item">
+      <div class=3D"legend-box" style=3D"background:#bfdbfe;border:2px soli=
+d #1d4ed8"></div>
+      <span>System Action</span>
+    </div>
+    <div class=3D"legend-item">
+      <div class=3D"legend-box" style=3D"background:#fecaca;border:2px soli=
+d #b91c1c"></div>
+      <span>Admin Action</span>
+    </div>
+    <div class=3D"legend-item">
+      <div class=3D"legend-diamond" style=3D"background:#fef9c3;border:2px =
+solid #b45309"></div>
+      <span>Decision</span>
+    </div>
+  </div>
+
+  <div class=3D"chart-container">
+    <div class=3D"mermaid" data-processed=3D"true"><svg id=3D"mermaid-17726=
+26531313" width=3D"100%" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=
+=3D"http://www.w3.org/1999/xlink" class=3D"flowchart" style=3D"max-width: 5=
+05.12188720703125px;" viewBox=3D"0.5 0 505.12188720703125 2791.487548828125=
+" role=3D"graphics-document document" aria-roledescription=3D"flowchart-v2"=
+><style>#mermaid-1772626531313{font-family:"trebuchet ms",verdana,arial,san=
+s-serif;font-size:16px;fill:#333;}@keyframes edge-animation-frame{from{stro=
+ke-dashoffset:0;}}@keyframes dash{to{stroke-dashoffset:0;}}#mermaid-1772626=
+531313 .edge-animation-slow{stroke-dasharray:9,5!important;stroke-dashoffse=
+t:900;animation:dash 50s linear infinite;stroke-linecap:round;}#mermaid-177=
+2626531313 .edge-animation-fast{stroke-dasharray:9,5!important;stroke-dasho=
+ffset:900;animation:dash 20s linear infinite;stroke-linecap:round;}#mermaid=
+-1772626531313 .error-icon{fill:#552222;}#mermaid-1772626531313 .error-text=
+{fill:#552222;stroke:#552222;}#mermaid-1772626531313 .edge-thickness-normal=
+{stroke-width:1px;}#mermaid-1772626531313 .edge-thickness-thick{stroke-widt=
+h:3.5px;}#mermaid-1772626531313 .edge-pattern-solid{stroke-dasharray:0;}#me=
+rmaid-1772626531313 .edge-thickness-invisible{stroke-width:0;fill:none;}#me=
+rmaid-1772626531313 .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-17726=
+26531313 .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-1772626531313 .m=
+arker{fill:#333333;stroke:#333333;}#mermaid-1772626531313 .marker.cross{str=
+oke:#333333;}#mermaid-1772626531313 svg{font-family:"trebuchet ms",verdana,=
+arial,sans-serif;font-size:16px;}#mermaid-1772626531313 p{margin:0;}#mermai=
+d-1772626531313 .label{font-family:"trebuchet ms",verdana,arial,sans-serif;=
+color:#333;}#mermaid-1772626531313 .cluster-label text{fill:#333;}#mermaid-=
+1772626531313 .cluster-label span{color:#333;}#mermaid-1772626531313 .clust=
+er-label span p{background-color:transparent;}#mermaid-1772626531313 .label=
+ text,#mermaid-1772626531313 span{fill:#333;color:#333;}#mermaid-1772626531=
+313 .node rect,#mermaid-1772626531313 .node circle,#mermaid-1772626531313 .=
+node ellipse,#mermaid-1772626531313 .node polygon,#mermaid-1772626531313 .n=
+ode path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}#mermaid-17726265313=
+13 .rough-node .label text,#mermaid-1772626531313 .node .label text,#mermai=
+d-1772626531313 .image-shape .label,#mermaid-1772626531313 .icon-shape .lab=
+el{text-anchor:middle;}#mermaid-1772626531313 .node .katex path{fill:#000;s=
+troke:#000;stroke-width:1px;}#mermaid-1772626531313 .rough-node .label,#mer=
+maid-1772626531313 .node .label,#mermaid-1772626531313 .image-shape .label,=
+#mermaid-1772626531313 .icon-shape .label{text-align:center;}#mermaid-17726=
+26531313 .node.clickable{cursor:pointer;}#mermaid-1772626531313 .root .anch=
+or path{fill:#333333!important;stroke-width:0;stroke:#333333;}#mermaid-1772=
+626531313 .arrowheadPath{fill:#333333;}#mermaid-1772626531313 .edgePath .pa=
+th{stroke:#333333;stroke-width:2.0px;}#mermaid-1772626531313 .flowchart-lin=
+k{stroke:#333333;fill:none;}#mermaid-1772626531313 .edgeLabel{background-co=
+lor:rgba(232,232,232, 0.8);text-align:center;}#mermaid-1772626531313 .edgeL=
+abel p{background-color:rgba(232,232,232, 0.8);}#mermaid-1772626531313 .edg=
+eLabel rect{opacity:0.5;background-color:rgba(232,232,232, 0.8);fill:rgba(2=
+32,232,232, 0.8);}#mermaid-1772626531313 .labelBkg{background-color:rgba(23=
+2, 232, 232, 0.5);}#mermaid-1772626531313 .cluster rect{fill:#ffffde;stroke=
+:#aaaa33;stroke-width:1px;}#mermaid-1772626531313 .cluster text{fill:#333;}=
+#mermaid-1772626531313 .cluster span{color:#333;}#mermaid-1772626531313 div=
+.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding=
+:2px;font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:12px;bac=
+kground:hsl(80, 100%, 96.2745098039%);border:1px solid #aaaa33;border-radiu=
+s:2px;pointer-events:none;z-index:100;}#mermaid-1772626531313 .flowchartTit=
+leText{text-anchor:middle;font-size:18px;fill:#333;}#mermaid-1772626531313 =
+rect.text{fill:none;stroke-width:0;}#mermaid-1772626531313 .icon-shape,#mer=
+maid-1772626531313 .image-shape{background-color:rgba(232,232,232, 0.8);tex=
+t-align:center;}#mermaid-1772626531313 .icon-shape p,#mermaid-1772626531313=
+ .image-shape p{background-color:rgba(232,232,232, 0.8);padding:2px;}#merma=
+id-1772626531313 .icon-shape rect,#mermaid-1772626531313 .image-shape rect{=
+opacity:0.5;background-color:rgba(232,232,232, 0.8);fill:rgba(232,232,232, =
+0.8);}#mermaid-1772626531313 .label-icon{display:inline-block;height:1em;ov=
+erflow:visible;vertical-align:-0.125em;}#mermaid-1772626531313 .node .label=
+-icon path{fill:currentColor;stroke:revert;stroke-width:revert;}#mermaid-17=
+72626531313 :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-s=
+erif;}#mermaid-1772626531313 .startend&gt;*{fill:#dcfce7!important;stroke:#=
+15803d!important;stroke-width:3px!important;rx:20!important;}#mermaid-17726=
+26531313 .startend span{fill:#dcfce7!important;stroke:#15803d!important;str=
+oke-width:3px!important;rx:20!important;}#mermaid-1772626531313 .supplier&g=
+t;*{fill:#bbf7d0!important;stroke:#15803d!important;stroke-width:2px!import=
+ant;rx:8!important;}#mermaid-1772626531313 .supplier span{fill:#bbf7d0!impo=
+rtant;stroke:#15803d!important;stroke-width:2px!important;rx:8!important;}#=
+mermaid-1772626531313 .system&gt;*{fill:#bfdbfe!important;stroke:#1d4ed8!im=
+portant;stroke-width:2px!important;rx:8!important;}#mermaid-1772626531313 .=
+system span{fill:#bfdbfe!important;stroke:#1d4ed8!important;stroke-width:2p=
+x!important;rx:8!important;}#mermaid-1772626531313 .admin&gt;*{fill:#fecaca=
+!important;stroke:#b91c1c!important;stroke-width:2px!important;rx:8!importa=
+nt;}#mermaid-1772626531313 .admin span{fill:#fecaca!important;stroke:#b91c1=
+c!important;stroke-width:2px!important;rx:8!important;}#mermaid-17726265313=
+13 .decision&gt;*{fill:#fef9c3!important;stroke:#b45309!important;stroke-wi=
+dth:2px!important;}#mermaid-1772626531313 .decision span{fill:#fef9c3!impor=
+tant;stroke:#b45309!important;stroke-width:2px!important;}</style><g><marke=
+r id=3D"mermaid-1772626531313_flowchart-v2-pointEnd" class=3D"marker flowch=
+art-v2" viewBox=3D"0 0 10 10" refX=3D"5" refY=3D"5" markerUnits=3D"userSpac=
+eOnUse" markerWidth=3D"8" markerHeight=3D"8" orient=3D"auto"><path d=3D"M 0=
+ 0 L 10 5 L 0 10 z" class=3D"arrowMarkerPath" style=3D"stroke-width: 1; str=
+oke-dasharray: 1, 0;"></path></marker><marker id=3D"mermaid-1772626531313_f=
+lowchart-v2-pointStart" class=3D"marker flowchart-v2" viewBox=3D"0 0 10 10"=
+ refX=3D"4.5" refY=3D"5" markerUnits=3D"userSpaceOnUse" markerWidth=3D"8" m=
+arkerHeight=3D"8" orient=3D"auto"><path d=3D"M 0 5 L 10 10 L 10 0 z" class=
+=3D"arrowMarkerPath" style=3D"stroke-width: 1; stroke-dasharray: 1, 0;"></p=
+ath></marker><marker id=3D"mermaid-1772626531313_flowchart-v2-circleEnd" cl=
+ass=3D"marker flowchart-v2" viewBox=3D"0 0 10 10" refX=3D"11" refY=3D"5" ma=
+rkerUnits=3D"userSpaceOnUse" markerWidth=3D"11" markerHeight=3D"11" orient=
+=3D"auto"><circle cx=3D"5" cy=3D"5" r=3D"5" class=3D"arrowMarkerPath" style=
+=3D"stroke-width: 1; stroke-dasharray: 1, 0;"></circle></marker><marker id=
+=3D"mermaid-1772626531313_flowchart-v2-circleStart" class=3D"marker flowcha=
+rt-v2" viewBox=3D"0 0 10 10" refX=3D"-1" refY=3D"5" markerUnits=3D"userSpac=
+eOnUse" markerWidth=3D"11" markerHeight=3D"11" orient=3D"auto"><circle cx=
+=3D"5" cy=3D"5" r=3D"5" class=3D"arrowMarkerPath" style=3D"stroke-width: 1;=
+ stroke-dasharray: 1, 0;"></circle></marker><marker id=3D"mermaid-177262653=
+1313_flowchart-v2-crossEnd" class=3D"marker cross flowchart-v2" viewBox=3D"=
+0 0 11 11" refX=3D"12" refY=3D"5.2" markerUnits=3D"userSpaceOnUse" markerWi=
+dth=3D"11" markerHeight=3D"11" orient=3D"auto"><path d=3D"M 1,1 l 9,9 M 10,=
+1 l -9,9" class=3D"arrowMarkerPath" style=3D"stroke-width: 2; stroke-dashar=
+ray: 1, 0;"></path></marker><marker id=3D"mermaid-1772626531313_flowchart-v=
+2-crossStart" class=3D"marker cross flowchart-v2" viewBox=3D"0 0 11 11" ref=
+X=3D"-1" refY=3D"5.2" markerUnits=3D"userSpaceOnUse" markerWidth=3D"11" mar=
+kerHeight=3D"11" orient=3D"auto"><path d=3D"M 1,1 l 9,9 M 10,1 l -9,9" clas=
+s=3D"arrowMarkerPath" style=3D"stroke-width: 2; stroke-dasharray: 1, 0;"></=
+path></marker><g class=3D"root"><g class=3D"clusters"></g><g class=3D"edgeP=
+aths"><path d=3D"M239.431,71.5L239.348,75.583C239.265,79.667,239.098,87.833=
+,239.015,95.417C238.931,103,238.931,110,238.931,113.5L238.931,117" id=3D"L_=
+START_CLICK_0" class=3D"edge-thickness-normal edge-pattern-solid edge-thick=
+ness-normal edge-pattern-solid flowchart-link" style=3D";" data-edge=3D"tru=
+e" data-et=3D"edge" data-id=3D"L_START_CLICK_0" data-points=3D"W3sieCI6MjM5=
+LjQzMTI1MTUyNTg3ODksInkiOjcxLjQ5OTk5OTk5OTk5OTk5fSx7IngiOjIzOC45MzEyNTE1MjU=
+4Nzg5LCJ5Ijo5Nn0seyJ4IjoyMzguOTMxMjUxNTI1ODc4OSwieSI6MTIxfV0=3D" marker-end=
+=3D"url(#mermaid-1772626531313_flowchart-v2-pointEnd)"></path><path d=3D"M2=
+38.931,175L238.931,179.167C238.931,183.333,238.931,191.667,238.931,199.333C=
+238.931,207,238.931,214,238.931,217.5L238.931,221" id=3D"L_CLICK_STEP1_0" c=
+lass=3D"edge-thickness-normal edge-pattern-solid edge-thickness-normal edge=
+-pattern-solid flowchart-link" style=3D";" data-edge=3D"true" data-et=3D"ed=
+ge" data-id=3D"L_CLICK_STEP1_0" data-points=3D"W3sieCI6MjM4LjkzMTI1MTUyNTg3=
+ODksInkiOjE3NX0seyJ4IjoyMzguOTMxMjUxNTI1ODc4OSwieSI6MjAwfSx7IngiOjIzOC45MzE=
+yNTE1MjU4Nzg5LCJ5IjoyMjV9XQ=3D=3D" marker-end=3D"url(#mermaid-1772626531313=
+_flowchart-v2-pointEnd)"></path><path d=3D"M304.331,375L307.965,379.167C311=
+.598,383.333,318.865,391.667,322.498,399.333C326.131,407,326.131,414,326.13=
+1,417.5L326.131,421" id=3D"L_STEP1_STEP2_0" class=3D"edge-thickness-normal =
+edge-pattern-solid edge-thickness-normal edge-pattern-solid flowchart-link"=
+ style=3D";" data-edge=3D"true" data-et=3D"edge" data-id=3D"L_STEP1_STEP2_0=
+" data-points=3D"W3sieCI6MzA0LjMzMTI1MTc0MDQ1NTYsInkiOjM3NX0seyJ4IjozMjYuMT=
+MxMjUxODExOTgxMiwieSI6NDAwfSx7IngiOjMyNi4xMzEyNTE4MTE5ODEyLCJ5Ijo0MjV9XQ=3D=
+=3D" marker-end=3D"url(#mermaid-1772626531313_flowchart-v2-pointEnd)"></pat=
+h><path d=3D"M326.131,527L326.131,531.167C326.131,535.333,326.131,543.667,3=
+26.131,551.333C326.131,559,326.131,566,326.131,569.5L326.131,573" id=3D"L_S=
+TEP2_STEP3_0" class=3D"edge-thickness-normal edge-pattern-solid edge-thickn=
+ess-normal edge-pattern-solid flowchart-link" style=3D";" data-edge=3D"true=
+" data-et=3D"edge" data-id=3D"L_STEP2_STEP3_0" data-points=3D"W3sieCI6MzI2L=
+jEzMTI1MTgxMTk4MTIsInkiOjUyN30seyJ4IjozMjYuMTMxMjUxODExOTgxMiwieSI6NTUyfSx7=
+IngiOjMyNi4xMzEyNTE4MTE5ODEyLCJ5Ijo1Nzd9XQ=3D=3D" marker-end=3D"url(#mermai=
+d-1772626531313_flowchart-v2-pointEnd)"></path><path d=3D"M273.982,703L270.=
+533,707.167C267.084,711.333,260.186,719.667,256.737,727.333C253.288,735,253=
+.288,742,253.288,745.5L253.288,749" id=3D"L_STEP3_SUBMIT_0" class=3D"edge-t=
+hickness-normal edge-pattern-solid edge-thickness-normal edge-pattern-solid=
+ flowchart-link" style=3D";" data-edge=3D"true" data-et=3D"edge" data-id=3D=
+"L_STEP3_SUBMIT_0" data-points=3D"W3sieCI6MjczLjk4MTc0ODk3MTA3MjEsInkiOjcwM=
+30seyJ4IjoyNTMuMjg3NTAxODExOTgxMiwieSI6NzI4fSx7IngiOjI1My4yODc1MDE4MTE5ODEy=
+LCJ5Ijo3NTN9XQ=3D=3D" marker-end=3D"url(#mermaid-1772626531313_flowchart-v2=
+-pointEnd)"></path><path d=3D"M177.332,807L159.984,813.167C142.636,819.333,=
+107.94,831.667,91.173,844.362C74.407,857.057,75.57,870.114,76.152,876.643L7=
+6.734,883.171" id=3D"L_SUBMIT_VALIDATE1_0" class=3D"edge-thickness-normal e=
+dge-pattern-solid edge-thickness-normal edge-pattern-solid flowchart-link" =
+style=3D";" data-edge=3D"true" data-et=3D"edge" data-id=3D"L_SUBMIT_VALIDAT=
+E1_0" data-points=3D"W3sieCI6MTc3LjMzMTU0NDY2MDAzMTgsInkiOjgwN30seyJ4Ijo3My=
+4yNDM3NTE1MjU4Nzg5LCJ5Ijo4NDR9LHsieCI6NzcuMDg4NTI4ODE4MjQyMiwieSI6ODg3LjE1N=
+TIyMjcwNzYzNjd9XQ=3D=3D" marker-end=3D"url(#mermaid-1772626531313_flowchart=
+-v2-pointEnd)"></path><path d=3D"M83.244,1031.488L83.244,1037.654C83.244,10=
+43.821,83.244,1056.154,99.318,1075.755C115.393,1095.356,147.542,1122.224,16=
+3.617,1135.658L179.692,1149.093" id=3D"L_VALIDATE1_VALIDATE2_0" class=3D"ed=
+ge-thickness-normal edge-pattern-solid edge-thickness-normal edge-pattern-s=
+olid flowchart-link" style=3D";" data-edge=3D"true" data-et=3D"edge" data-i=
+d=3D"L_VALIDATE1_VALIDATE2_0" data-points=3D"W3sieCI6ODMuMjQzNzUxNTI1ODc4OS=
+wieSI6MTAzMS40ODc1MDMwNTE3NTc4fSx7IngiOjgzLjI0Mzc1MTUyNTg3ODksInkiOjEwNjguN=
+Dg3NTAzMDUxNzU3OH0seyJ4IjoxODIuNzYxMDcxNzQwMzIxNjUsInkiOjExNTEuNjU3NjgyODM3=
+MzE1fV0=3D" marker-end=3D"url(#mermaid-1772626531313_flowchart-v2-pointEnd)=
+"></path><path d=3D"M89.399,887.155L90.04,879.963C90.681,872.77,91.962,858.=
+385,92.603,840.526C93.244,822.667,93.244,801.333,93.244,782C93.244,762.667,=
+93.244,745.333,93.244,722C93.244,698.667,93.244,669.333,93.244,640C93.244,6=
+10.667,93.244,581.333,93.244,554C93.244,526.667,93.244,501.333,93.244,476C9=
+3.244,450.667,93.244,425.333,98.764,408.877C104.285,392.421,115.326,384.842=
+,120.847,381.053L126.368,377.264" id=3D"L_VALIDATE1_STEP1_0" class=3D"edge-=
+thickness-normal edge-pattern-solid edge-thickness-normal edge-pattern-soli=
+d flowchart-link" style=3D";" data-edge=3D"true" data-et=3D"edge" data-id=
+=3D"L_VALIDATE1_STEP1_0" data-points=3D"W3sieCI6ODkuMzk4OTc0MjMzNTE1NjIsInk=
+iOjg4Ny4xNTUyMjI3MDc2MzY4fSx7IngiOjkzLjI0Mzc1MTUyNTg3ODksInkiOjg0NH0seyJ4Ij=
+o5My4yNDM3NTE1MjU4Nzg5LCJ5Ijo3ODB9LHsieCI6OTMuMjQzNzUxNTI1ODc4OSwieSI6NzI4f=
+Sx7IngiOjkzLjI0Mzc1MTUyNTg3ODksInkiOjY0MH0seyJ4Ijo5My4yNDM3NTE1MjU4Nzg5LCJ5=
+Ijo1NTJ9LHsieCI6OTMuMjQzNzUxNTI1ODc4OSwieSI6NDc2fSx7IngiOjkzLjI0Mzc1MTUyNTg=
+3ODksInkiOjQwMH0seyJ4IjoxMjkuNjY1NjI2NTI1ODc4OSwieSI6Mzc1fV0=3D" marker-end=
+=3D"url(#mermaid-1772626531313_flowchart-v2-pointEnd)"></path><path d=3D"M2=
+28.931,1275L228.931,1281.167C228.931,1287.333,228.931,1299.667,233.776,1316=
+.249C238.621,1332.832,248.311,1353.663,253.155,1364.079L258,1374.495" id=3D=
+"L_VALIDATE2_DUPLICATE_0" class=3D"edge-thickness-normal edge-pattern-solid=
+ edge-thickness-normal edge-pattern-solid flowchart-link" style=3D";" data-=
+edge=3D"true" data-et=3D"edge" data-id=3D"L_VALIDATE2_DUPLICATE_0" data-poi=
+nts=3D"W3sieCI6MjI4LjkzMTI1MTUyNTg3ODkzLCJ5IjoxMjc1LjAwMDAwMDAwMDAwMDJ9LHsi=
+eCI6MjI4LjkzMTI1MTUyNTg3ODksInkiOjEzMTJ9LHsieCI6MjU5LjY4NzMwNjE1NzgxMzcsInk=
+iOjEzNzguMTIyMDY5NjA1MTI2fV0=3D" marker-end=3D"url(#mermaid-1772626531313_f=
+lowchart-v2-pointEnd)"></path><path d=3D"M278.322,1154.878L298.431,1140.48C=
+318.54,1126.081,358.757,1097.284,378.866,1064.179C398.975,1031.073,398.975,=
+993.658,398.975,956.244C398.975,918.829,398.975,881.415,398.975,852.041C398=
+.975,822.667,398.975,801.333,398.975,782C398.975,762.667,398.975,745.333,39=
+5.951,733.014C392.927,720.694,386.879,713.388,383.855,709.734L380.831,706.0=
+81" id=3D"L_VALIDATE2_STEP3_0" class=3D"edge-thickness-normal edge-pattern-=
+solid edge-thickness-normal edge-pattern-solid flowchart-link" style=3D";" =
+data-edge=3D"true" data-et=3D"edge" data-id=3D"L_VALIDATE2_STEP3_0" data-po=
+ints=3D"W3sieCI6Mjc4LjMyMjE3MTM3NDkzMzIsInkiOjExNTQuODc4NDIyOTAwODEyMn0seyJ=
+4IjozOTguOTc1MDAxODExOTgxMiwieSI6MTA2OC40ODc1MDMwNTE3NTc4fSx7IngiOjM5OC45Nz=
+UwMDE4MTE5ODEyLCJ5Ijo5NTYuMjQzNzUxNTI1ODc4OX0seyJ4IjozOTguOTc1MDAxODExOTgxM=
+iwieSI6ODQ0fSx7IngiOjM5OC45NzUwMDE4MTE5ODEyLCJ5Ijo3ODB9LHsieCI6Mzk4Ljk3NTAw=
+MTgxMTk4MTIsInkiOjcyOH0seyJ4IjozNzguMjgwNzU0NjUyODkwMywieSI6NzAzfV0=3D" mar=
+ker-end=3D"url(#mermaid-1772626531313_flowchart-v2-pointEnd)"></path><path =
+d=3D"M288.809,1532.463L288.809,1538.629C288.809,1544.796,288.809,1557.129,2=
+88.809,1568.796C288.809,1580.463,288.809,1591.463,288.809,1596.963L288.809,=
+1602.463" id=3D"L_DUPLICATE_STORE_0" class=3D"edge-thickness-normal edge-pa=
+ttern-solid edge-thickness-normal edge-pattern-solid flowchart-link" style=
+=3D";" data-edge=3D"true" data-et=3D"edge" data-id=3D"L_DUPLICATE_STORE_0" =
+data-points=3D"W3sieCI6Mjg4LjgwOTM3NTc2MjkzOTIsInkiOjE1MzIuNDYyNTA5MTU1Mjcz=
+NH0seyJ4IjoyODguODA5Mzc1NzYyOTM5NDUsInkiOjE1NjkuNDYyNTA5MTU1MjczNH0seyJ4Ijo=
+yODguODA5Mzc1NzYyOTM5NDUsInkiOjE2MDYuNDYyNTA5MTU1MjczNH1d" marker-end=3D"ur=
+l(#mermaid-1772626531313_flowchart-v2-pointEnd)"></path><path d=3D"M342.986=
+,1403.176L364.907,1387.98C386.829,1372.784,430.672,1342.392,452.594,1306.90=
+3C474.516,1271.415,474.516,1230.829,474.516,1190.244C474.516,1149.658,474.5=
+16,1109.073,474.516,1070.073C474.516,1031.073,474.516,993.658,474.516,956.2=
+44C474.516,918.829,474.516,881.415,453.84,856.726C433.164,832.037,391.812,8=
+20.074,371.136,814.093L350.461,808.112" id=3D"L_DUPLICATE_SUBMIT_0" class=
+=3D"edge-thickness-normal edge-pattern-solid edge-thickness-normal edge-pat=
+tern-solid flowchart-link" style=3D";" data-edge=3D"true" data-et=3D"edge" =
+data-id=3D"L_DUPLICATE_SUBMIT_0" data-points=3D"W3sieCI6MzQyLjk4NTY5NzE0NTA=
+wMDQsInkiOjE0MDMuMTc2MzIxMzgyMDYwN30seyJ4Ijo0NzQuNTE1NjI1OTUzNjc0MywieSI6MT=
+MxMn0seyJ4Ijo0NzQuNTE1NjI1OTUzNjc0MywieSI6MTE5MC4yNDM3NTE1MjU4Nzl9LHsieCI6N=
+Dc0LjUxNTYyNTk1MzY3NDMsInkiOjEwNjguNDg3NTAzMDUxNzU3OH0seyJ4Ijo0NzQuNTE1NjI1=
+OTUzNjc0MywieSI6OTU2LjI0Mzc1MTUyNTg3ODl9LHsieCI6NDc0LjUxNTYyNTk1MzY3NDMsInk=
+iOjg0NH0seyJ4IjozNDYuNjE4MTE2Njg0MjU4LCJ5Ijo4MDd9XQ=3D=3D" marker-end=3D"ur=
+l(#mermaid-1772626531313_flowchart-v2-pointEnd)"></path><path d=3D"M288.809=
+,1708.463L288.809,1712.629C288.809,1716.796,288.809,1725.129,288.809,1732.7=
+96C288.809,1740.463,288.809,1747.463,288.809,1750.963L288.809,1754.463" id=
+=3D"L_STORE_EMAIL_0" class=3D"edge-thickness-normal edge-pattern-solid edge=
+-thickness-normal edge-pattern-solid flowchart-link" style=3D";" data-edge=
+=3D"true" data-et=3D"edge" data-id=3D"L_STORE_EMAIL_0" data-points=3D"W3sie=
+CI6Mjg4LjgwOTM3NTc2MjkzOTQ1LCJ5IjoxNzA4LjQ2MjUwOTE1NTI3MzR9LHsieCI6Mjg4Ljgw=
+OTM3NTc2MjkzOTQ1LCJ5IjoxNzMzLjQ2MjUwOTE1NTI3MzR9LHsieCI6Mjg4LjgwOTM3NTc2Mjk=
+zOTQ1LCJ5IjoxNzU4LjQ2MjUwOTE1NTI3MzR9XQ=3D=3D" marker-end=3D"url(#mermaid-1=
+772626531313_flowchart-v2-pointEnd)"></path><path d=3D"M288.809,1836.463L28=
+8.809,1840.629C288.809,1844.796,288.809,1853.129,288.809,1860.796C288.809,1=
+868.463,288.809,1875.463,288.809,1878.963L288.809,1882.463" id=3D"L_EMAIL_A=
+DMIN_REVIEW_0" class=3D"edge-thickness-normal edge-pattern-solid edge-thick=
+ness-normal edge-pattern-solid flowchart-link" style=3D";" data-edge=3D"tru=
+e" data-et=3D"edge" data-id=3D"L_EMAIL_ADMIN_REVIEW_0" data-points=3D"W3sie=
+CI6Mjg4LjgwOTM3NTc2MjkzOTQ1LCJ5IjoxODM2LjQ2MjUwOTE1NTI3MzR9LHsieCI6Mjg4Ljgw=
+OTM3NTc2MjkzOTQ1LCJ5IjoxODYxLjQ2MjUwOTE1NTI3MzR9LHsieCI6Mjg4LjgwOTM3NTc2Mjk=
+zOTQ1LCJ5IjoxODg2LjQ2MjUwOTE1NTI3MzR9XQ=3D=3D" marker-end=3D"url(#mermaid-1=
+772626531313_flowchart-v2-pointEnd)"></path><path d=3D"M288.809,1988.463L28=
+8.809,1992.629C288.809,1996.796,288.809,2005.129,288.809,2012.796C288.809,2=
+020.463,288.809,2027.463,288.809,2030.963L288.809,2034.463" id=3D"L_ADMIN_R=
+EVIEW_APPROVE_0" class=3D"edge-thickness-normal edge-pattern-solid edge-thi=
+ckness-normal edge-pattern-solid flowchart-link" style=3D";" data-edge=3D"t=
+rue" data-et=3D"edge" data-id=3D"L_ADMIN_REVIEW_APPROVE_0" data-points=3D"W=
+3sieCI6Mjg4LjgwOTM3NTc2MjkzOTQ1LCJ5IjoxOTg4LjQ2MjUwOTE1NTI3MzR9LHsieCI6Mjg4=
+LjgwOTM3NTc2MjkzOTQ1LCJ5IjoyMDEzLjQ2MjUwOTE1NTI3MzR9LHsieCI6Mjg4LjgwOTM3NTc=
+2MjkzODcsInkiOjIwMzguNDYyNTA5MTU1MjczN31d" marker-end=3D"url(#mermaid-17726=
+26531313_flowchart-v2-pointEnd)"></path><path d=3D"M244.24,2178.918L231.601=
+,2192.513C218.963,2206.108,193.686,2233.298,181.048,2252.393C168.409,2271.4=
+88,168.409,2282.488,168.409,2287.988L168.409,2293.488" id=3D"L_APPROVE_APPR=
+OVED_0" class=3D"edge-thickness-normal edge-pattern-solid edge-thickness-no=
+rmal edge-pattern-solid flowchart-link" style=3D";" data-edge=3D"true" data=
+-et=3D"edge" data-id=3D"L_APPROVE_APPROVED_0" data-points=3D"W3sieCI6MjQ0Lj=
+IzOTc1NDcxNDQ1NjcsInkiOjIxNzguOTE3ODk3MjYyMDY0fSx7IngiOjE2OC40MDkzNzQyMzcwN=
+jA1NSwieSI6MjI2MC40ODc1MTgzMTA1NDd9LHsieCI6MTY4LjQwOTM3NDIzNzA2MDU1LCJ5Ijoy=
+Mjk3LjQ4NzUxODMxMDU0N31d" marker-end=3D"url(#mermaid-1772626531313_flowchar=
+t-v2-pointEnd)"></path><path d=3D"M168.409,2399.488L168.409,2403.654C168.40=
+9,2407.821,168.409,2416.154,168.409,2423.821C168.409,2431.488,168.409,2438.=
+488,168.409,2441.988L168.409,2445.488" id=3D"L_APPROVED_APPROVAL_EMAIL_0" c=
+lass=3D"edge-thickness-normal edge-pattern-solid edge-thickness-normal edge=
+-pattern-solid flowchart-link" style=3D";" data-edge=3D"true" data-et=3D"ed=
+ge" data-id=3D"L_APPROVED_APPROVAL_EMAIL_0" data-points=3D"W3sieCI6MTY4LjQw=
+OTM3NDIzNzA2MDU1LCJ5IjoyMzk5LjQ4NzUxODMxMDU0N30seyJ4IjoxNjguNDA5Mzc0MjM3MDY=
+wNTUsInkiOjI0MjQuNDg3NTE4MzEwNTQ3fSx7IngiOjE2OC40MDkzNzQyMzcwNjA1NSwieSI6Mj=
+Q0OS40ODc1MTgzMTA1NDd9XQ=3D=3D" marker-end=3D"url(#mermaid-1772626531313_fl=
+owchart-v2-pointEnd)"></path><path d=3D"M168.409,2527.488L168.409,2531.654C=
+168.409,2535.821,168.409,2544.154,168.409,2551.821C168.409,2559.488,168.409=
+,2566.488,168.409,2569.988L168.409,2573.488" id=3D"L_APPROVAL_EMAIL_LOGIN_0=
+" class=3D"edge-thickness-normal edge-pattern-solid edge-thickness-normal e=
+dge-pattern-solid flowchart-link" style=3D";" data-edge=3D"true" data-et=3D=
+"edge" data-id=3D"L_APPROVAL_EMAIL_LOGIN_0" data-points=3D"W3sieCI6MTY4LjQw=
+OTM3NDIzNzA2MDU1LCJ5IjoyNTI3LjQ4NzUxODMxMDU0N30seyJ4IjoxNjguNDA5Mzc0MjM3MDY=
+wNTUsInkiOjI1NTIuNDg3NTE4MzEwNTQ3fSx7IngiOjE2OC40MDkzNzQyMzcwNjA1NSwieSI6Mj=
+U3Ny40ODc1MTgzMTA1NDd9XQ=3D=3D" marker-end=3D"url(#mermaid-1772626531313_fl=
+owchart-v2-pointEnd)"></path><path d=3D"M168.409,2655.488L168.409,2659.654C=
+168.409,2663.821,168.409,2672.154,168.409,2679.821C168.409,2687.488,168.409=
+,2694.488,168.409,2697.988L168.409,2701.488" id=3D"L_LOGIN_LIVE_0" class=3D=
+"edge-thickness-normal edge-pattern-solid edge-thickness-normal edge-patter=
+n-solid flowchart-link" style=3D";" data-edge=3D"true" data-et=3D"edge" dat=
+a-id=3D"L_LOGIN_LIVE_0" data-points=3D"W3sieCI6MTY4LjQwOTM3NDIzNzA2MDU1LCJ5=
+IjoyNjU1LjQ4NzUxODMxMDU0N30seyJ4IjoxNjguNDA5Mzc0MjM3MDYwNTUsInkiOjI2ODAuNDg=
+3NTE4MzEwNTQ3fSx7IngiOjE2OC40MDkzNzQyMzcwNjA1NSwieSI6MjcwNS40ODc1MTgzMTA1ND=
+d9XQ=3D=3D" marker-end=3D"url(#mermaid-1772626531313_flowchart-v2-pointEnd)=
+"></path><path d=3D"M333.379,2178.918L346.017,2192.513C358.656,2206.108,383=
+.933,2233.298,396.571,2252.393C409.209,2271.488,409.209,2282.488,409.209,22=
+87.988L409.209,2293.488" id=3D"L_APPROVE_REJECTED_0" class=3D"edge-thicknes=
+s-normal edge-pattern-solid edge-thickness-normal edge-pattern-solid flowch=
+art-link" style=3D";" data-edge=3D"true" data-et=3D"edge" data-id=3D"L_APPR=
+OVE_REJECTED_0" data-points=3D"W3sieCI6MzMzLjM3ODk5NjgxMTQyMjMsInkiOjIxNzgu=
+OTE3ODk3MjYyMDY0fSx7IngiOjQwOS4yMDkzNzcyODg4MTgzNiwieSI6MjI2MC40ODc1MTgzMTA=
+1NDd9LHsieCI6NDA5LjIwOTM3NzI4ODgxODM2LCJ5IjoyMjk3LjQ4NzUxODMxMDU0N31d" mark=
+er-end=3D"url(#mermaid-1772626531313_flowchart-v2-pointEnd)"></path><path d=
+=3D"M409.209,2399.488L409.209,2403.654C409.209,2407.821,409.209,2416.154,40=
+9.209,2423.821C409.209,2431.488,409.209,2438.488,409.209,2441.988L409.209,2=
+445.488" id=3D"L_REJECTED_REAPPLY_0" class=3D"edge-thickness-normal edge-pa=
+ttern-solid edge-thickness-normal edge-pattern-solid flowchart-link" style=
+=3D";" data-edge=3D"true" data-et=3D"edge" data-id=3D"L_REJECTED_REAPPLY_0"=
+ data-points=3D"W3sieCI6NDA5LjIwOTM3NzI4ODgxODM2LCJ5IjoyMzk5LjQ4NzUxODMxMDU=
+0N30seyJ4Ijo0MDkuMjA5Mzc3Mjg4ODE4MzYsInkiOjI0MjQuNDg3NTE4MzEwNTQ3fSx7IngiOj=
+QwOS4yMDkzNzcyODg4MTgzNiwieSI6MjQ0OS40ODc1MTgzMTA1NDd9XQ=3D=3D" marker-end=
+=3D"url(#mermaid-1772626531313_flowchart-v2-pointEnd)"></path><path d=3D"M4=
+09.209,2527.488L409.209,2531.654C409.209,2535.821,409.209,2544.154,409.209,=
+2551.821C409.209,2559.488,409.209,2566.488,409.209,2569.988L409.209,2573.48=
+8" id=3D"L_REAPPLY_CLOSED_0" class=3D"edge-thickness-normal edge-pattern-so=
+lid edge-thickness-normal edge-pattern-solid flowchart-link" style=3D";" da=
+ta-edge=3D"true" data-et=3D"edge" data-id=3D"L_REAPPLY_CLOSED_0" data-point=
+s=3D"W3sieCI6NDA5LjIwOTM3NzI4ODgxODM2LCJ5IjoyNTI3LjQ4NzUxODMxMDU0N30seyJ4Ij=
+o0MDkuMjA5Mzc3Mjg4ODE4MzYsInkiOjI1NTIuNDg3NTE4MzEwNTQ3fSx7IngiOjQwOS4yMDkzN=
+zcyODg4MTgzNiwieSI6MjU3Ny40ODc1MTgzMTA1NDd9XQ=3D=3D" marker-end=3D"url(#mer=
+maid-1772626531313_flowchart-v2-pointEnd)"></path></g><g class=3D"edgeLabel=
+s"><g class=3D"edgeLabel"><g class=3D"label" data-id=3D"L_START_CLICK_0" tr=
+ansform=3D"translate(0, 0)"><foreignObject width=3D"0" height=3D"0"><div xm=
+lns=3D"http://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"display: t=
+able-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-al=
+ign: center;"><span class=3D"edgeLabel"></span></div></foreignObject></g></=
+g><g class=3D"edgeLabel"><g class=3D"label" data-id=3D"L_CLICK_STEP1_0" tra=
+nsform=3D"translate(0, 0)"><foreignObject width=3D"0" height=3D"0"><div xml=
+ns=3D"http://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"display: ta=
+ble-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-ali=
+gn: center;"><span class=3D"edgeLabel"></span></div></foreignObject></g></g=
+><g class=3D"edgeLabel"><g class=3D"label" data-id=3D"L_STEP1_STEP2_0" tran=
+sform=3D"translate(0, 0)"><foreignObject width=3D"0" height=3D"0"><div xmln=
+s=3D"http://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"display: tab=
+le-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-alig=
+n: center;"><span class=3D"edgeLabel"></span></div></foreignObject></g></g>=
+<g class=3D"edgeLabel"><g class=3D"label" data-id=3D"L_STEP2_STEP3_0" trans=
+form=3D"translate(0, 0)"><foreignObject width=3D"0" height=3D"0"><div xmlns=
+=3D"http://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"display: tabl=
+e-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align=
+: center;"><span class=3D"edgeLabel"></span></div></foreignObject></g></g><=
+g class=3D"edgeLabel"><g class=3D"label" data-id=3D"L_STEP3_SUBMIT_0" trans=
+form=3D"translate(0, 0)"><foreignObject width=3D"0" height=3D"0"><div xmlns=
+=3D"http://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"display: tabl=
+e-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align=
+: center;"><span class=3D"edgeLabel"></span></div></foreignObject></g></g><=
+g class=3D"edgeLabel"><g class=3D"label" data-id=3D"L_SUBMIT_VALIDATE1_0" t=
+ransform=3D"translate(0, 0)"><foreignObject width=3D"0" height=3D"0"><div x=
+mlns=3D"http://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"display: =
+table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-a=
+lign: center;"><span class=3D"edgeLabel"></span></div></foreignObject></g><=
+/g><g class=3D"edgeLabel" transform=3D"translate(83.2437515258789, 1068.487=
+5030517578)"><g class=3D"label" data-id=3D"L_VALIDATE1_VALIDATE2_0" transfo=
+rm=3D"translate(-11.324999809265137, -12)"><foreignObject width=3D"22.64999=
+9618530273" height=3D"24"><div xmlns=3D"http://www.w3.org/1999/xhtml" class=
+=3D"labelBkg" style=3D"display: table-cell; white-space: nowrap; line-heigh=
+t: 1.5; max-width: 200px; text-align: center;"><span class=3D"edgeLabel"><p=
+>Yes</p></span></div></foreignObject></g></g><g class=3D"edgeLabel" transfo=
+rm=3D"translate(93.2437515258789, 640)"><g class=3D"label" data-id=3D"L_VAL=
+IDATE1_STEP1_0" transform=3D"translate(-9.40000057220459, -12)"><foreignObj=
+ect width=3D"18.80000114440918" height=3D"24"><div xmlns=3D"http://www.w3.o=
+rg/1999/xhtml" class=3D"labelBkg" style=3D"display: table-cell; white-space=
+: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span cl=
+ass=3D"edgeLabel"><p>No</p></span></div></foreignObject></g></g><g class=3D=
+"edgeLabel" transform=3D"translate(228.9312515258789, 1312)"><g class=3D"la=
+bel" data-id=3D"L_VALIDATE2_DUPLICATE_0" transform=3D"translate(-11.3249998=
+09265137, -12)"><foreignObject width=3D"22.649999618530273" height=3D"24"><=
+div xmlns=3D"http://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"disp=
+lay: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; t=
+ext-align: center;"><span class=3D"edgeLabel"><p>Yes</p></span></div></fore=
+ignObject></g></g><g class=3D"edgeLabel" transform=3D"translate(398.9750018=
+119812, 844)"><g class=3D"label" data-id=3D"L_VALIDATE2_STEP3_0" transform=
+=3D"translate(-9.40000057220459, -12)"><foreignObject width=3D"18.800001144=
+40918" height=3D"24"><div xmlns=3D"http://www.w3.org/1999/xhtml" class=3D"l=
+abelBkg" style=3D"display: table-cell; white-space: nowrap; line-height: 1.=
+5; max-width: 200px; text-align: center;"><span class=3D"edgeLabel"><p>No</=
+p></span></div></foreignObject></g></g><g class=3D"edgeLabel" transform=3D"=
+translate(288.80937576293945, 1569.4625091552734)"><g class=3D"label" data-=
+id=3D"L_DUPLICATE_STORE_0" transform=3D"translate(-9.40000057220459, -12)">=
+<foreignObject width=3D"18.80000114440918" height=3D"24"><div xmlns=3D"http=
+://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"display: table-cell; =
+white-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center=
+;"><span class=3D"edgeLabel"><p>No</p></span></div></foreignObject></g></g>=
+<g class=3D"edgeLabel" transform=3D"translate(474.5156259536743, 1068.48750=
+30517578)"><g class=3D"label" data-id=3D"L_DUPLICATE_SUBMIT_0" transform=3D=
+"translate(-11.324999809265137, -12)"><foreignObject width=3D"22.6499996185=
+30273" height=3D"24"><div xmlns=3D"http://www.w3.org/1999/xhtml" class=3D"l=
+abelBkg" style=3D"display: table-cell; white-space: nowrap; line-height: 1.=
+5; max-width: 200px; text-align: center;"><span class=3D"edgeLabel"><p>Yes<=
+/p></span></div></foreignObject></g></g><g class=3D"edgeLabel"><g class=3D"=
+label" data-id=3D"L_STORE_EMAIL_0" transform=3D"translate(0, 0)"><foreignOb=
+ject width=3D"0" height=3D"0"><div xmlns=3D"http://www.w3.org/1999/xhtml" c=
+lass=3D"labelBkg" style=3D"display: table-cell; white-space: nowrap; line-h=
+eight: 1.5; max-width: 200px; text-align: center;"><span class=3D"edgeLabel=
+"></span></div></foreignObject></g></g><g class=3D"edgeLabel"><g class=3D"l=
+abel" data-id=3D"L_EMAIL_ADMIN_REVIEW_0" transform=3D"translate(0, 0)"><for=
+eignObject width=3D"0" height=3D"0"><div xmlns=3D"http://www.w3.org/1999/xh=
+tml" class=3D"labelBkg" style=3D"display: table-cell; white-space: nowrap; =
+line-height: 1.5; max-width: 200px; text-align: center;"><span class=3D"edg=
+eLabel"></span></div></foreignObject></g></g><g class=3D"edgeLabel"><g clas=
+s=3D"label" data-id=3D"L_ADMIN_REVIEW_APPROVE_0" transform=3D"translate(0, =
+0)"><foreignObject width=3D"0" height=3D"0"><div xmlns=3D"http://www.w3.org=
+/1999/xhtml" class=3D"labelBkg" style=3D"display: table-cell; white-space: =
+nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span clas=
+s=3D"edgeLabel"></span></div></foreignObject></g></g><g class=3D"edgeLabel"=
+ transform=3D"translate(168.40937423706055, 2260.487518310547)"><g class=3D=
+"label" data-id=3D"L_APPROVE_APPROVED_0" transform=3D"translate(-11.3249998=
+09265137, -12)"><foreignObject width=3D"22.649999618530273" height=3D"24"><=
+div xmlns=3D"http://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"disp=
+lay: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; t=
+ext-align: center;"><span class=3D"edgeLabel"><p>Yes</p></span></div></fore=
+ignObject></g></g><g class=3D"edgeLabel"><g class=3D"label" data-id=3D"L_AP=
+PROVED_APPROVAL_EMAIL_0" transform=3D"translate(0, 0)"><foreignObject width=
+=3D"0" height=3D"0"><div xmlns=3D"http://www.w3.org/1999/xhtml" class=3D"la=
+belBkg" style=3D"display: table-cell; white-space: nowrap; line-height: 1.5=
+; max-width: 200px; text-align: center;"><span class=3D"edgeLabel"></span><=
+/div></foreignObject></g></g><g class=3D"edgeLabel"><g class=3D"label" data=
+-id=3D"L_APPROVAL_EMAIL_LOGIN_0" transform=3D"translate(0, 0)"><foreignObje=
+ct width=3D"0" height=3D"0"><div xmlns=3D"http://www.w3.org/1999/xhtml" cla=
+ss=3D"labelBkg" style=3D"display: table-cell; white-space: nowrap; line-hei=
+ght: 1.5; max-width: 200px; text-align: center;"><span class=3D"edgeLabel">=
+</span></div></foreignObject></g></g><g class=3D"edgeLabel"><g class=3D"lab=
+el" data-id=3D"L_LOGIN_LIVE_0" transform=3D"translate(0, 0)"><foreignObject=
+ width=3D"0" height=3D"0"><div xmlns=3D"http://www.w3.org/1999/xhtml" class=
+=3D"labelBkg" style=3D"display: table-cell; white-space: nowrap; line-heigh=
+t: 1.5; max-width: 200px; text-align: center;"><span class=3D"edgeLabel"></=
+span></div></foreignObject></g></g><g class=3D"edgeLabel" transform=3D"tran=
+slate(409.20937728881836, 2260.487518310547)"><g class=3D"label" data-id=3D=
+"L_APPROVE_REJECTED_0" transform=3D"translate(-9.40000057220459, -12)"><for=
+eignObject width=3D"18.80000114440918" height=3D"24"><div xmlns=3D"http://w=
+ww.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"display: table-cell; whit=
+e-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><=
+span class=3D"edgeLabel"><p>No</p></span></div></foreignObject></g></g><g c=
+lass=3D"edgeLabel"><g class=3D"label" data-id=3D"L_REJECTED_REAPPLY_0" tran=
+sform=3D"translate(0, 0)"><foreignObject width=3D"0" height=3D"0"><div xmln=
+s=3D"http://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"display: tab=
+le-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-alig=
+n: center;"><span class=3D"edgeLabel"></span></div></foreignObject></g></g>=
+<g class=3D"edgeLabel"><g class=3D"label" data-id=3D"L_REAPPLY_CLOSED_0" tr=
+ansform=3D"translate(0, 0)"><foreignObject width=3D"0" height=3D"0"><div xm=
+lns=3D"http://www.w3.org/1999/xhtml" class=3D"labelBkg" style=3D"display: t=
+able-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-al=
+ign: center;"><span class=3D"edgeLabel"></span></div></foreignObject></g></=
+g></g><g class=3D"nodes"><g class=3D"node default startend" id=3D"flowchart=
+-START-0" transform=3D"translate(238.9312515258789, 39.5)"><g class=3D"basi=
+c label-container outer-path"><path d=3D"M-48.51250457763672 -31.5 C-19.499=
+11839682732 -31.5, 9.514267783982078 -31.5, 48.51250457763672 -31.5 C48.512=
+50457763672 -31.5, 48.51250457763672 -31.5, 48.51250457763672 -31.5 C49.201=
+07862454051 -31.47791877054387, 49.8896526714443 -31.455837541087742, 50.53=
+0716507029176 -31.435279871635593 C51.118657514178445 -31.37856190977842, 5=
+1.706598521327706 -31.32184394792124, 52.54063517069866 -31.241385435432253=
+ C53.23990609115972 -31.12833273593909, 53.93917701162077 -31.0152800364459=
+26, 54.534001381729944 -30.91911344521856 C55.06688159873009 -30.7974870130=
+5667, 55.59976181573024 -30.675860580894778, 56.502623970786196 -30.4697881=
+85729428 C57.09757978797931 -30.293208422173322, 57.69253560517244 -30.1166=
+28658617216, 58.43841344538077 -29.895256030836062 C59.159745496842966 -29.=
+629799167977584, 59.88107754830517 -29.364342305119106, 60.333415231337 -29=
+.197877856399685 C60.74511255121103 -29.015631665458535, 61.15680987108506 =
+-28.83338547451738, 62.179842359839796 -28.380519338926202 C62.855008951423=
+33 -28.028285360561913, 63.53017554300687 -27.676051382197628, 63.970107465=
+760755 -27.44653917988677 C64.3538945323791 -27.21388520471958, 64.73768159=
+899744 -26.981231229552392, 65.696853965769 -26.399775304092984 C66.1517832=
+096623 -26.082436357122575, 66.6067124535556 -25.76509741015217, 67.3529862=
+8811002 -25.244529088840633 C67.67964445299678 -24.984027895082274, 68.0063=
+0261788355 -24.723526701323916, 68.93169902983205 -23.985547688627737 C69.2=
+749885304378 -23.67378124712005, 69.61827803104354 -23.362014805612365, 70.=
+42650492164654 -22.62800452807842 C70.89549625943478 -22.14373246690714, 71=
+.364487597223 -21.65946040573586, 71.83126148550915 -21.177478043231485 C72=
+.31651865474475 -20.607467360332194, 72.80177582398036 -20.037456677432907,=
+ 73.14019627537965 -19.63992875855011 C73.60520627171914 -19.01685772673736=
+7, 74.07021626805862 -18.393786694924625, 74.34793059744082 -18.02167479384=
+835 C74.69529340798049 -17.48803223688436, 75.04265621852015 -16.9543896799=
+2037, 75.44950161230511 -16.329365901781543 C75.79786578546715 -15.71081003=
+663465, 76.14622995862919 -15.092254171487758, 76.44038272838623 -14.569956=
+14258631 C76.63666789018667 -14.162365804278023, 76.83295305198712 -13.7547=
+75465969736, 77.31650220263481 -12.750675308355413 C77.53687201600185 -12.2=
+06357608778335, 77.75724182936888 -11.662039909201257, 78.07425987220417 -1=
+0.878999214271206 C78.24696030407362 -10.358853029557453, 78.4196607359431 =
+-9.8387068448437, 78.71054194829154 -8.962618978877531 C78.88857231781402 -=
+8.283712021038017, 79.06660268733653 -7.604805063198502, 79.22273381136417 =
+-7.009409419623907 C79.33813628681256 -6.416842098518245, 79.45353876226095=
+ -5.824274777412582, 79.6087307551919 -5.027396693551458 C79.68619974793233=
+ -4.426562483839621, 79.76366874067276 -3.825728274127786, 79.8669466355364=
+6 -3.024725316091981 C79.91201282050059 -2.3227831085060036, 79.95707900546=
+47 -1.6208409009200264, 79.99632038795839 -1.0096246935071378 C79.996320387=
+95839 -0.3357062099450481, 79.99632038795839 0.33821227361704165, 79.996320=
+38795839 1.00962469350713 C79.96469456682706 1.5022223855308539, 79.9330687=
+4569573 1.9948200775545777, 79.86694663553646 3.02472531609196 C79.76764650=
+771837 3.7948774984209357, 79.66834637990027 4.5650296807499116, 79.6087307=
+551919 5.027396693551435 C79.49723980306621 5.599879169095801, 79.385748850=
+94052 6.1723616446401675, 79.22273381136417 7.0094094196239 C79.04698206139=
+982 7.679627013528248, 78.87123031143545 8.349844607432596, 78.710541948291=
+54 8.96261897887751 C78.46325906250047 9.707395631702862, 78.2159761767094 =
+10.452172284528217, 78.07425987220418 10.878999214271184 C77.85249813146707=
+ 11.426755001363427, 77.63073639072995 11.97451078845567, 77.31650220263481=
+ 12.750675308355405 C76.97867255561434 13.452185798789891, 76.6408429085938=
+7 14.153696289224378, 76.44038272838623 14.569956142586303 C76.158011763441=
+58 15.071334384006251, 75.87564079849695 15.572712625426199, 75.44950161230=
+513 16.329365901781536 C75.09178761300683 16.87891066436215, 74.73407361370=
+853 17.428455426942765, 74.34793059744084 18.021674793848334 C73.8719079831=
+487 18.659501730447495, 73.39588536885657 19.297328667046656, 73.1401962753=
+7967 19.639928758550102 C72.83001851439496 20.004281206217325, 72.519840753=
+41026 20.36863365388455, 71.83126148550917 21.177478043231467 C71.340198887=
+20778 21.68454049296677, 70.84913628890638 22.191602942702076, 70.426504921=
+64654 22.628004528078414 C70.06001699734604 22.960839164189018, 69.69352907=
+304554 23.29367380029962, 68.93169902983207 23.985547688627715 C68.37359780=
+763312 24.43061856163413, 67.81549658543416 24.87568943464054, 67.352986288=
+11003 25.24452908884063 C66.75390392773738 25.662423009579186, 66.154821567=
+36473 26.080316930317746, 65.69685396576901 26.399775304092973 C65.08864007=
+992227 26.7684781359548, 64.48042619407552 27.13718096781663, 63.9701074657=
+6076 27.446539179886766 C63.32203336207411 27.78463902466882, 62.6739592583=
+8745 28.12273886945087, 62.1798423598398 28.3805193389262 C61.5608738606071=
+ 28.654518332488355, 60.94190536137441 28.92851732605051, 60.33341523133701=
+4 29.197877856399682 C59.761566404602775 29.40832351075049, 59.189717577868=
+535 29.618769165101295, 58.43841344538079 29.895256030836055 C57.7973167327=
+763 30.085530169951753, 57.15622002017181 30.275804309067453, 56.5026239707=
+8623 30.46978818572942 C55.85218818052571 30.618245910366184, 55.2017523902=
+65185 30.766703635002948, 54.53400138172996 30.919113445218557 C53.79821523=
+49092 31.038069643329745, 53.06242908808845 31.157025841440937, 52.54063517=
+069868 31.24138543543225 C51.75527195664608 31.317148480154447, 50.96990874=
+259347 31.39291152487665, 50.530716507029176 31.435279871635593 C49.7971178=
+6478329 31.458804952229286, 49.06351922253741 31.48233003282298, 48.5125045=
+77636726 31.5 C48.512504577636726 31.5, 48.51250457763672 31.5, 48.51250457=
+763672 31.5 C23.191820966669656 31.5, -2.1288626442974063 31.5, -48.5125045=
+7763671 31.5 C-48.97815602366221 31.48506746446152, -49.443807469687705 31.=
+470134928923034, -50.53071650702916 31.435279871635593 C-51.19617520376662 =
+31.371083871492505, -51.86163390050409 31.306887871349417, -52.540635170698=
+664 31.24138543543225 C-53.318375866831225 31.115646351150716, -54.09611656=
+296379 30.98990726686918, -54.534001381729944 30.919113445218557 C-55.30100=
+933291661 30.744048885554843, -56.06801728410327 30.56898432589113, -56.502=
+62397078619 30.469788185729428 C-57.27002363510277 30.24202799352331, -58.0=
+37423299419345 30.014267801317185, -58.43841344538075 29.89525603083607 C-5=
+9.172433134353376 29.62513000009052, -59.906452823326 29.35500396934497, -6=
+0.33341523133701 29.197877856399685 C-60.87820003055735 28.956717786251726,=
+ -61.4229848297777 28.715557716103767, -62.179842359839796 28.3805193389262=
+06 C-62.5409824599782 28.192112780005274, -62.9021225601166 28.003706221084=
+343, -63.97010746576075 27.446539179886773 C-64.65052315164895 27.034067192=
+53494, -65.33093883753715 26.62159520518311, -65.69685396576898 26.39977530=
+4092994 C-66.11072667804957 26.11107561626701, -66.52459939033017 25.822375=
+928441023, -67.35298628811002 25.244529088840636 C-67.83893831879865 24.856=
+99527609308, -68.32489034948729 24.469461463345525, -68.93169902983205 23.9=
+8554768862774 C-69.49760637108736 23.471605614387418, -70.06351371234267 22=
+.95766354014709, -70.42650492164653 22.628004528078435 C-70.72831638418427 =
+22.31635941382631, -71.03012784672201 22.004714299574182, -71.8312614855091=
+6 21.177478043231478 C-72.25688328857788 20.677518454780284, -72.6825050916=
+466 20.177558866329086, -73.14019627537965 19.639928758550113 C-73.38475647=
+43062 19.312240371880996, -73.62931667323275 18.98455198521188, -74.3479305=
+9744082 18.021674793848355 C-74.57677285346435 17.67011163584629, -74.80561=
+510948786 17.31854847784422, -75.44950161230511 16.329365901781557 C-75.802=
+70911804732 15.70221020919798, -76.15591662378951 15.075054516614404, -76.4=
+4038272838623 14.569956142586314 C-76.65014281028375 14.134384844379335, -7=
+6.85990289218128 13.698813546172355, -77.31650220263481 12.750675308355417 =
+C-77.59962611713243 12.051353765717783, -77.88275003163005 11.3520322230801=
+48, -78.07425987220417 10.878999214271209 C-78.27639879153499 10.2701889957=
+09852, -78.47853771086581 9.661378777148494, -78.71054194829154 8.962618978=
+877522 C-78.87981268891993 8.317116282458406, -79.0490834295483 7.671613586=
+039288, -79.22273381136415 7.009409419623911 C-79.33877337877131 6.41357076=
+5959446, -79.45481294617846 5.817732112294982, -79.6087307551919 5.02739669=
+3551461 C-79.70409371494905 4.28778040922137, -79.7994566747062 3.548164124=
+8912794, -79.86694663553646 3.024725316091999 C-79.90968841947279 2.3589875=
+307366834, -79.95243020340912 1.6932497453813677, -79.99632038795839 1.0096=
+246935071416 C-79.99632038795839 0.23509666557538422, -79.99632038795839 -0=
+.5394313623563731, -79.99632038795839 -1.0096246935071262 C-79.963149172980=
+58 -1.5262931421092873, -79.92997795800278 -2.0429615907114487, -79.8669466=
+3553646 -3.024725316091956 C-79.79657268587839 -3.570531772731775, -79.7261=
+9873622031 -4.1163382293715935, -79.6087307551919 -5.027396693551446 C-79.5=
+2430949823496 -5.460882005586342, -79.43988824127803 -5.894367317621237, -7=
+9.22273381136417 -7.009409419623896 C-79.09889530620025 -7.4816593117615815=
+, -78.97505680103632 -7.953909203899268, -78.71054194829154 -8.962618978877=
+506 C-78.49732955416142 -9.604780739215698, -78.28411716003133 -10.24694249=
+9553889, -78.07425987220418 -10.878999214271168 C-77.85100876886737 -11.430=
+433755779523, -77.62775766553057 -11.981868297287878, -77.31650220263481 -1=
+2.750675308355401 C-77.03005326651474 -13.345492653234098, -76.743604330394=
+69 -13.940309998112795, -76.44038272838623 -14.5699561425863 C-76.217270996=
+68549 -14.966113614733647, -75.99415926498475 -15.362271086880996, -75.4495=
+0161230511 -16.329365901781546 C-75.14357506889766 -16.799351225234773, -74=
+.83764852549021 -17.269336548687996, -74.34793059744084 -18.021674793848344=
+ C-73.8672221865715 -18.665780270976107, -73.38651377570217 -19.30988574810=
+3866, -73.14019627537967 -19.639928758550102 C-72.62565602277742 -20.244337=
+01742648, -72.11111577017519 -20.84874527630286, -71.83126148550917 -21.177=
+478043231467 C-71.37769170662177 -21.645826078704104, -70.92412192773436 -2=
+2.11417411417674, -70.42650492164655 -22.628004528078403 C-69.9167682428493=
+4 -23.090933892868566, -69.40703156405213 -23.553863257658726, -68.93169902=
+983207 -23.98554768862771 C-68.5424061872993 -24.295998371029984, -68.15311=
+334476654 -24.606449053432257, -67.35298628811003 -25.244529088840626 C-66.=
+77045130290227 -25.650880276988488, -66.1879163176945 -26.057231465136354, =
+-65.69685396576902 -26.39977530409297 C-65.01487741852092 -26.8131934947738=
+13, -64.33290087127281 -27.226611685454657, -63.97010746576076 -27.44653917=
+9886763 C-63.46516820941245 -27.70996566649465, -62.96022895306414 -27.9733=
+92153102534, -62.17984235983981 -28.3805193389262 C-61.80766744252484 -28.5=
+4527013464487, -61.43549252520987 -28.710020930363545, -60.33341523133702 -=
+29.19787785639968 C-59.71944308773271 -29.42382528074235, -59.1054709441283=
+85 -29.649772705085017, -58.438413445380796 -29.895256030836055 C-58.049642=
+624362164 -30.0106411698147, -57.66087180334354 -30.126026308793346, -56.50=
+262397078623 -30.469788185729417 C-56.07812932505136 -30.56667631853196, -5=
+5.653634679316475 -30.663564451334505, -54.53400138172996 -30.9191134452185=
+53 C-53.95629676041333 -31.012512248226777, -53.37859213909671 -31.10591105=
+1234997, -52.54063517069868 -31.24138543543225 C-51.749951006743295 -31.317=
+66178579219, -50.95926684278792 -31.393938136152133, -50.530716507029176 -3=
+1.435279871635593 C-49.779345633267695 -31.45937487310244, -49.027974759506=
+21 -31.483469874569288, -48.512504577636726 -31.5 C-48.512504577636726 -31.=
+5, -48.51250457763672 -31.5, -48.51250457763672 -31.5" stroke=3D"none" stro=
+ke-width=3D"0" fill=3D"#dcfce7" style=3D"fill:#dcfce7 !important;stroke:#15=
+803d !important;stroke-width:3px !important;rx:20 !important"></path><path =
+d=3D"M-48.51250457763672 -31.5 C-27.00162646739345 -31.5, -5.49074835715018=
+1 -31.5, 48.51250457763672 -31.5 M-48.51250457763672 -31.5 C-19.97670340146=
+3336 -31.5, 8.559097774710047 -31.5, 48.51250457763672 -31.5 M48.5125045776=
+3672 -31.5 C48.51250457763672 -31.5, 48.51250457763672 -31.5, 48.5125045776=
+3672 -31.5 M48.51250457763672 -31.5 C48.51250457763672 -31.5, 48.5125045776=
+3672 -31.5, 48.51250457763672 -31.5 M48.51250457763672 -31.5 C49.0686021460=
+107 -31.4821670333605, 49.624699714384676 -31.464334066720998, 50.530716507=
+029176 -31.435279871635593 M48.51250457763672 -31.5 C49.20488112322587 -31.=
+477796831812146, 49.89725766881501 -31.455593663624292, 50.530716507029176 =
+-31.435279871635593 M50.530716507029176 -31.435279871635593 C51.00878910573=
+936 -31.389160783004442, 51.48686170444954 -31.34304169437329, 52.540635170=
+69866 -31.241385435432253 M50.530716507029176 -31.435279871635593 C50.99068=
+039869323 -31.390907708194277, 51.45064429035728 -31.34653554475296, 52.540=
+63517069866 -31.241385435432253 M52.54063517069866 -31.241385435432253 C52.=
+965914332462845 -31.172629598647376, 53.39119349422704 -31.1038737618625, 5=
+4.534001381729944 -30.91911344521856 M52.54063517069866 -31.241385435432253=
+ C53.12181673223652 -31.147424507693135, 53.70299829377438 -31.053463579954=
+02, 54.534001381729944 -30.91911344521856 M54.534001381729944 -30.919113445=
+21856 C54.94325032928585 -30.825705043537887, 55.35249927684177 -30.7322966=
+4185721, 56.502623970786196 -30.469788185729428 M54.534001381729944 -30.919=
+11344521856 C55.24677907726744 -30.756426587521275, 55.95955677280494 -30.5=
+93739729823994, 56.502623970786196 -30.469788185729428 M56.502623970786196 =
+-30.469788185729428 C57.11097678470769 -30.289232263866612, 57.719329598629=
+17 -30.1086763420038, 58.43841344538077 -29.895256030836062 M56.50262397078=
+6196 -30.469788185729428 C57.06389036744772 -30.303207265347723, 57.6251567=
+6410924 -30.13662634496602, 58.43841344538077 -29.895256030836062 M58.43841=
+344538077 -29.895256030836062 C58.95358259418863 -29.70566902190336, 59.468=
+7517429965 -29.516082012970656, 60.333415231337 -29.197877856399685 M58.438=
+41344538077 -29.895256030836062 C59.16533729731365 -29.627741333714336, 59.=
+89226114924653 -29.36022663659261, 60.333415231337 -29.197877856399685 M60.=
+333415231337 -29.197877856399685 C61.00095033325886 -28.902379868504124, 61=
+.668485435180706 -28.60688188060856, 62.179842359839796 -28.380519338926202=
+ M60.333415231337 -29.197877856399685 C60.75087114018671 -29.01308250894147=
+3, 61.168327049036414 -28.828287161483264, 62.179842359839796 -28.380519338=
+926202 M62.179842359839796 -28.380519338926202 C62.67891099392257 -28.12015=
+5552193935, 63.177979628005346 -27.85979176546167, 63.970107465760755 -27.4=
+4653917988677 M62.179842359839796 -28.380519338926202 C62.55881871143202 -2=
+8.18280761904648, 62.93779506302424 -27.985095899166758, 63.970107465760755=
+ -27.44653917988677 M63.970107465760755 -27.44653917988677 C64.409970909331=
+97 -27.17989137546938, 64.84983435290319 -26.913243571051993, 65.6968539657=
+69 -26.399775304092984 M63.970107465760755 -27.44653917988677 C64.511781148=
+46877 -27.118173410201273, 65.0534548311768 -26.78980764051578, 65.69685396=
+5769 -26.399775304092984 M65.696853965769 -26.399775304092984 C66.106090708=
+0425 -26.114309468256035, 66.51532745031601 -25.828843632419087, 67.3529862=
+8811002 -25.244529088840633 M65.696853965769 -26.399775304092984 C66.237343=
+615833 -26.02275312162818, 66.77783326589702 -25.645730939163382, 67.352986=
+28811002 -25.244529088840633 M67.35298628811002 -25.244529088840633 C67.877=
+66088518445 -24.82611505985117, 68.4023354822589 -24.407701030861706, 68.93=
+169902983205 -23.985547688627737 M67.35298628811002 -25.244529088840633 C67=
+.81539449441546 -24.8757708495112, 68.2778027007209 -24.507012610181764, 68=
+.93169902983205 -23.985547688627737 M68.93169902983205 -23.985547688627737 =
+C69.23160005183638 -23.713185515389615, 69.53150107384073 -23.4408233421514=
+96, 70.42650492164654 -22.62800452807842 M68.93169902983205 -23.98554768862=
+7737 C69.50691608189429 -23.463150781354013, 70.08213313395653 -22.94075387=
+4080286, 70.42650492164654 -22.62800452807842 M70.42650492164654 -22.628004=
+52807842 C70.796718549139 -22.245728562588358, 71.16693217663148 -21.863452=
+59709829, 71.83126148550915 -21.177478043231485 M70.42650492164654 -22.6280=
+0452807842 C70.71509950276831 -22.330006929014424, 71.0036940838901 -22.032=
+00932995043, 71.83126148550915 -21.177478043231485 M71.83126148550915 -21.1=
+77478043231485 C72.28444078995803 -20.64514784559291, 72.73762009440689 -20=
+.112817647954333, 73.14019627537965 -19.63992875855011 M71.83126148550915 -=
+21.177478043231485 C72.22017660740048 -20.720636211160585, 72.6090917292918=
+ -20.26379437908969, 73.14019627537965 -19.63992875855011 M73.1401962753796=
+5 -19.63992875855011 C73.45342575630771 -19.22022978989926, 73.766655237235=
+77 -18.800530821248408, 74.34793059744082 -18.02167479384835 M73.1401962753=
+7965 -19.63992875855011 C73.44914683953742 -19.22596314855412, 73.758097403=
+69519 -18.811997538558124, 74.34793059744082 -18.02167479384835 M74.3479305=
+9744082 -18.02167479384835 C74.75106208842777 -17.40235656772979, 75.154193=
+57941474 -16.783038341611228, 75.44950161230511 -16.329365901781543 M74.347=
+93059744082 -18.02167479384835 C74.58308864881816 -17.660408878154293, 74.8=
+182467001955 -17.299142962460238, 75.44950161230511 -16.329365901781543 M75=
+.44950161230511 -16.329365901781543 C75.76239082920823 -15.773799413701207,=
+ 76.07528004611136 -15.21823292562087, 76.44038272838623 -14.56995614258631=
+ M75.44950161230511 -16.329365901781543 C75.7417060632897 -15.8105273101492=
+42, 76.03391051427428 -15.291688718516939, 76.44038272838623 -14.5699561425=
+8631 M76.44038272838623 -14.56995614258631 C76.69753764534359 -14.035968455=
+290561, 76.95469256230095 -13.501980767994812, 77.31650220263481 -12.750675=
+308355413 M76.44038272838623 -14.56995614258631 C76.7806372673365 -13.86341=
+0312175215, 77.12089180628676 -13.156864481764119, 77.31650220263481 -12.75=
+0675308355413 M77.31650220263481 -12.750675308355413 C77.57406697621244 -12=
+.114485337942545, 77.83163174979006 -11.478295367529675, 78.07425987220417 =
+-10.878999214271206 M77.31650220263481 -12.750675308355413 C77.492336103515=
+03 -12.316362173664048, 77.66817000439526 -11.882049038972685, 78.074259872=
+20417 -10.878999214271206 M78.07425987220417 -10.878999214271206 C78.268375=
+01022624 -10.294355346595893, 78.46249014824829 -9.709711478920578, 78.7105=
+4194829154 -8.962618978877531 M78.07425987220417 -10.878999214271206 C78.20=
+511924139672 -10.484871643872296, 78.33597861058927 -10.090744073473386, 78=
+.71054194829154 -8.962618978877531 M78.71054194829154 -8.962618978877531 C7=
+8.83788425920675 -8.477007556851156, 78.96522657012196 -7.991396134824781, =
+79.22273381136417 -7.009409419623907 M78.71054194829154 -8.962618978877531 =
+C78.90763523696046 -8.211016848411239, 79.1047285256294 -7.459414717944947,=
+ 79.22273381136417 -7.009409419623907 M79.22273381136417 -7.009409419623907=
+ C79.32996452213044 -6.458802383057829, 79.43719523289671 -5.90819534649175=
+2, 79.6087307551919 -5.027396693551458 M79.22273381136417 -7.00940941962390=
+7 C79.30359935337566 -6.594181952333253, 79.38446489538715 -6.1789544850425=
+99, 79.6087307551919 -5.027396693551458 M79.6087307551919 -5.02739669355145=
+8 C79.70902834519285 -4.249508391503492, 79.80932593519378 -3.4716200894555=
+27, 79.86694663553646 -3.024725316091981 M79.6087307551919 -5.0273966935514=
+58 C79.68554476674673 -4.431642388574408, 79.76235877830158 -3.835888083597=
+36, 79.86694663553646 -3.024725316091981 M79.86694663553646 -3.024725316091=
+981 C79.91477516952918 -2.279757292657677, 79.96260370352189 -1.53478926922=
+33722, 79.99632038795839 -1.0096246935071378 M79.86694663553646 -3.02472531=
+6091981 C79.90163939859215 -2.4843575280053996, 79.93633216164783 -1.943989=
+7399188184, 79.99632038795839 -1.0096246935071378 M79.99632038795839 -1.009=
+6246935071378 C79.99632038795839 -0.2095967866094921, 79.99632038795839 0.5=
+904311202881536, 79.99632038795839 1.00962469350713 M79.99632038795839 -1.0=
+096246935071378 C79.99632038795839 -0.5912365509991546, 79.99632038795839 -=
+0.17284840849117145, 79.99632038795839 1.00962469350713 M79.99632038795839 =
+1.00962469350713 C79.96811508906491 1.448944990680562, 79.93990979017143 1.=
+8882652878539938, 79.86694663553646 3.02472531609196 M79.99632038795839 1.0=
+0962469350713 C79.9515569632622 1.7068511655361767, 79.90679353856603 2.404=
+077637565223, 79.86694663553646 3.02472531609196 M79.86694663553646 3.02472=
+531609196 C79.77620463036695 3.7285023891510454, 79.68546262519743 4.432279=
+462210131, 79.6087307551919 5.027396693551435 M79.86694663553646 3.02472531=
+609196 C79.76954161189119 3.7801794446872488, 79.6721365882459 4.5356335732=
+82538, 79.6087307551919 5.027396693551435 M79.6087307551919 5.0273966935514=
+35 C79.46876195509357 5.746106899639984, 79.32879315499524 6.46481710572853=
+35, 79.22273381136417 7.0094094196239 M79.6087307551919 5.027396693551435 C=
+79.45476162588554 5.817995631152612, 79.30079249657918 6.608594568753789, 7=
+9.22273381136417 7.0094094196239 M79.22273381136417 7.0094094196239 C79.073=
+52592418081 7.578403760561384, 78.92431803699746 8.147398101498869, 78.7105=
+4194829154 8.96261897887751 M79.22273381136417 7.0094094196239 C79.06227112=
+275857 7.621323196246168, 78.901808434153 8.233236972868436, 78.71054194829=
+154 8.96261897887751 M78.71054194829154 8.96261897887751 C78.56580021686746=
+ 9.398558012463736, 78.42105848544338 9.834497046049963, 78.07425987220418 =
+10.878999214271184 M78.71054194829154 8.96261897887751 C78.56943530428488 9=
+.387609708334981, 78.42832866027823 9.812600437792451, 78.07425987220418 10=
+.878999214271184 M78.07425987220418 10.878999214271184 C77.8678013275867 11=
+.388955811080761, 77.66134278296923 11.898912407890336, 77.31650220263481 1=
+2.750675308355405 M78.07425987220418 10.878999214271184 C77.85884972532263 =
+11.411066441740473, 77.64343957844108 11.943133669209764, 77.31650220263481=
+ 12.750675308355405 M77.31650220263481 12.750675308355405 C77.0628950848576=
+9 13.277295914742654, 76.80928796708055 13.803916521129905, 76.440382728386=
+23 14.569956142586303 M77.31650220263481 12.750675308355405 C77.08208868048=
+956 13.237440002735886, 76.84767515834433 13.724204697116367, 76.4403827283=
+8623 14.569956142586303 M76.44038272838623 14.569956142586303 C76.210908726=
+96777 14.977410468867117, 75.98143472554932 15.384864795147928, 75.44950161=
+230513 16.329365901781536 M76.44038272838623 14.569956142586303 C76.1078309=
+7603088 15.160435453409692, 75.77527922367553 15.75091476423308, 75.4495016=
+1230513 16.329365901781536 M75.44950161230513 16.329365901781536 C75.220320=
+64468043 16.681449411759807, 74.99113967705573 17.033532921738082, 74.34793=
+059744084 18.021674793848334 M75.44950161230513 16.329365901781536 C75.1029=
+1331301481 16.861818601481136, 74.75632501372448 17.394271301180734, 74.347=
+93059744084 18.021674793848334 M74.34793059744084 18.021674793848334 C74.07=
+802318023889 18.3833261438274, 73.80811576303694 18.744977493806466, 73.140=
+19627537967 19.639928758550102 M74.34793059744084 18.021674793848334 C73.89=
+510198024811 18.628423887350888, 73.4422733630554 19.235172980853438, 73.14=
+019627537967 19.639928758550102 M73.14019627537967 19.639928758550102 C72.7=
+0156679096964 20.155167909662836, 72.2629373065596 20.670407060775574, 71.8=
+3126148550917 21.177478043231467 M73.14019627537967 19.639928758550102 C72.=
+72350771615338 20.129394850467996, 72.3068191569271 20.61886094238589, 71.8=
+3126148550917 21.177478043231467 M71.83126148550917 21.177478043231467 C71.=
+54191837437303 21.47624856099075, 71.25257526323689 21.775019078750034, 70.=
+42650492164654 22.628004528078414 M71.83126148550917 21.177478043231467 C71=
+.38582350891821 21.637429325199644, 70.94038553232724 22.09738060716782, 70=
+.42650492164654 22.628004528078414 M70.42650492164654 22.628004528078414 C6=
+9.90166339660614 23.104651714574313, 69.37682187156574 23.581298901070213, =
+68.93169902983207 23.985547688627715 M70.42650492164654 22.628004528078414 =
+C70.04130371477973 22.977834072289422, 69.6561025079129 23.327663616500427,=
+ 68.93169902983207 23.985547688627715 M68.93169902983207 23.985547688627715=
+ C68.55489746501138 24.286036909461473, 68.17809590019068 24.58652613029522=
+6, 67.35298628811003 25.24452908884063 M68.93169902983207 23.98554768862771=
+5 C68.57658577472095 24.268741059618247, 68.22147251960982 24.5519344306087=
+8, 67.35298628811003 25.24452908884063 M67.35298628811003 25.24452908884063=
+ C66.8937442904625 25.564876426133885, 66.43450229281495 25.88522376342714,=
+ 65.69685396576901 26.399775304092973 M67.35298628811003 25.24452908884063 =
+C66.73350825632507 25.676650147042036, 66.1140302245401 26.108771205243443,=
+ 65.69685396576901 26.399775304092973 M65.69685396576901 26.399775304092973=
+ C65.28887429403122 26.6470949786551, 64.88089462229341 26.894414653217233,=
+ 63.97010746576076 27.446539179886766 M65.69685396576901 26.399775304092973=
+ C65.11990286781715 26.749526450212393, 64.54295176986528 27.09927759633181=
+, 63.97010746576076 27.446539179886766 M63.97010746576076 27.44653917988676=
+6 C63.38045135969611 27.75416239272793, 62.790795253631465 28.0617856055690=
+96, 62.1798423598398 28.3805193389262 M63.97010746576076 27.446539179886766=
+ C63.557572703595135 27.661758301067447, 63.14503794142951 27.8769774222481=
+28, 62.1798423598398 28.3805193389262 M62.1798423598398 28.3805193389262 C6=
+1.77636235578975 28.55912796791009, 61.37288235173969 28.737736596893985, 6=
+0.333415231337014 29.197877856399682 M62.1798423598398 28.3805193389262 C61=
+.733238388560224 28.578217668975565, 61.28663441728064 28.77591599902493, 6=
+0.333415231337014 29.197877856399682 M60.333415231337014 29.197877856399682=
+ C59.92462571001992 29.348316179053285, 59.51583618870282 29.49875450170688=
+8, 58.43841344538079 29.895256030836055 M60.333415231337014 29.197877856399=
+682 C59.70809745639323 29.42800057795314, 59.08277968144945 29.658123299506=
+595, 58.43841344538079 29.895256030836055 M58.43841344538079 29.89525603083=
+6055 C58.04650056045019 30.011573717890744, 57.654587675519586 30.127891404=
+945437, 56.50262397078623 30.46978818572942 M58.43841344538079 29.895256030=
+836055 C57.80471690648511 30.083333837239284, 57.171020367589435 30.2714116=
+4364251, 56.50262397078623 30.46978818572942 M56.50262397078623 30.46978818=
+572942 C56.00947171076417 30.582346970960213, 55.516319450742095 30.6949057=
+56191, 54.53400138172996 30.919113445218557 M56.50262397078623 30.469788185=
+72942 C55.72296597253766 30.647740036085743, 54.943307974289084 30.82569188=
+644207, 54.53400138172996 30.919113445218557 M54.53400138172996 30.91911344=
+5218557 C54.029974281658355 31.000600637969594, 53.52594718158676 31.082087=
+83072063, 52.54063517069868 31.24138543543225 M54.53400138172996 30.9191134=
+45218557 C53.986622578675345 31.00760940511041, 53.43924377562073 31.096105=
+365002263, 52.54063517069868 31.24138543543225 M52.54063517069868 31.241385=
+43543225 C52.05555095919365 31.288180925917022, 51.57046674768863 31.334976=
+416401794, 50.530716507029176 31.435279871635593 M52.54063517069868 31.2413=
+8543543225 C51.84643366255238 31.30835422002366, 51.152232154406086 31.3753=
+2300461507, 50.530716507029176 31.435279871635593 M50.530716507029176 31.43=
+5279871635593 C49.79980975911895 31.458718628417394, 49.068903011208725 31.=
+482157385199198, 48.512504577636726 31.5 M50.530716507029176 31.43527987163=
+5593 C49.74666840950743 31.460422768066074, 48.96262031198568 31.4855656644=
+96555, 48.512504577636726 31.5 M48.512504577636726 31.5 C48.512504577636726=
+ 31.5, 48.51250457763672 31.5, 48.51250457763672 31.5 M48.512504577636726 3=
+1.5 C48.512504577636726 31.5, 48.51250457763672 31.5, 48.51250457763672 31.=
+5 M48.51250457763672 31.5 C23.169970902598582 31.5, -2.172562772439555 31.5=
+, -48.51250457763671 31.5 M48.51250457763672 31.5 C26.667998791835544 31.5,=
+ 4.823493006034369 31.5, -48.51250457763671 31.5 M-48.51250457763671 31.5 C=
+-49.07467696478668 31.481972225746272, -49.636849351936654 31.4639444514925=
+4, -50.53071650702916 31.435279871635593 M-48.51250457763671 31.5 C-49.1808=
+0249340176 31.478568986604394, -49.8491004091668 31.45713797320879, -50.530=
+71650702916 31.435279871635593 M-50.53071650702916 31.435279871635593 C-51.=
+27706168008894 31.36328085040191, -52.02340685314873 31.29128182916823, -52=
+.540635170698664 31.24138543543225 M-50.53071650702916 31.435279871635593 C=
+-51.1988465349277 31.370826171388142, -51.866976562826245 31.30637247114069=
+, -52.540635170698664 31.24138543543225 M-52.540635170698664 31.24138543543=
+225 C-53.21783333846805 31.13190128741752, -53.89503150623744 31.0224171394=
+02794, -54.534001381729944 30.919113445218557 M-52.540635170698664 31.24138=
+543543225 C-53.00120457365063 31.16692414613204, -53.4617739766026 31.09246=
+285683183, -54.534001381729944 30.919113445218557 M-54.534001381729944 30.9=
+19113445218557 C-55.105466550066595 30.78868024970445, -55.676931718403246 =
+30.65824705419034, -56.50262397078619 30.469788185729428 M-54.5340013817299=
+44 30.919113445218557 C-55.01127849266634 30.81017805917154, -55.4885556036=
+02734 30.701242673124526, -56.50262397078619 30.469788185729428 M-56.502623=
+97078619 30.469788185729428 C-57.03098846152295 30.312972378320563, -57.559=
+35295225972 30.1561565709117, -58.43841344538075 29.89525603083607 M-56.502=
+62397078619 30.469788185729428 C-57.19184858718482 30.265229937396153, -57.=
+881073203583455 30.06067168906288, -58.43841344538075 29.89525603083607 M-5=
+8.43841344538075 29.89525603083607 C-59.18672663733534 29.619869858865464, =
+-59.935039829289934 29.344483686894858, -60.33341523133701 29.1978778563996=
+85 M-58.43841344538075 29.89525603083607 C-59.15449967060965 29.63172968052=
+3332, -59.87058589583856 29.368203330210594, -60.33341523133701 29.19787785=
+6399685 M-60.33341523133701 29.197877856399685 C-60.972203986710326 28.9151=
+0502339109, -61.61099274208364 28.632332190382492, -62.179842359839796 28.3=
+80519338926206 M-60.33341523133701 29.197877856399685 C-60.95533005919666 2=
+8.92257461055411, -61.57724488705632 28.647271364708534, -62.17984235983979=
+6 28.380519338926206 M-62.179842359839796 28.380519338926206 C-62.883206863=
+274296 28.013574528010896, -63.58657136670879 27.646629717095585, -63.97010=
+746576075 27.446539179886773 M-62.179842359839796 28.380519338926206 C-62.6=
+76103975828475 28.121619971735647, -63.17236559181715 27.862720604545093, -=
+63.97010746576075 27.446539179886773 M-63.97010746576075 27.446539179886773=
+ C-64.41173841747784 27.178819901644328, -64.85336936919492 26.911100623401=
+882, -65.69685396576898 26.399775304092994 M-63.97010746576075 27.446539179=
+886773 C-64.55031704703288 27.094812722029637, -65.130526628305 26.74308626=
+4172504, -65.69685396576898 26.399775304092994 M-65.69685396576898 26.39977=
+5304092994 C-66.2033496601181 26.046465833560266, -66.70984535446723 25.693=
+15636302754, -67.35298628811002 25.244529088840636 M-65.69685396576898 26.3=
+99775304092994 C-66.24354556075451 26.018426913328803, -66.79023715574006 2=
+5.63707852256461, -67.35298628811002 25.244529088840636 M-67.35298628811002=
+ 25.244529088840636 C-67.84684375334805 24.850690902412385, -68.34070121858=
+609 24.456852715984134, -68.93169902983205 23.98554768862774 M-67.352986288=
+11002 25.244529088840636 C-67.96893849290882 24.753323596690144, -68.584890=
+69770764 24.262118104539653, -68.93169902983205 23.98554768862774 M-68.9316=
+9902983205 23.98554768862774 C-69.27568954952457 23.673144600133394, -69.61=
+96800692171 23.36074151163905, -70.42650492164653 22.628004528078435 M-68.9=
+3169902983205 23.98554768862774 C-69.52563663826314 23.4461492673786, -70.1=
+1957424669424 22.90675084612946, -70.42650492164653 22.628004528078435 M-70=
+.42650492164653 22.628004528078435 C-70.75142302731717 22.29249990770091, -=
+71.0763411329878 21.956995287323387, -71.83126148550916 21.177478043231478 =
+M-70.42650492164653 22.628004528078435 C-70.78268473545583 22.2602196274137=
+72, -71.13886454926514 21.89243472674911, -71.83126148550916 21.17747804323=
+1478 M-71.83126148550916 21.177478043231478 C-72.21885557541229 20.72218797=
+050276, -72.60644966531542 20.266897897774044, -73.14019627537965 19.639928=
+758550113 M-71.83126148550916 21.177478043231478 C-72.33704595418976 20.583=
+354826367678, -72.84283042287035 19.98923160950388, -73.14019627537965 19.6=
+39928758550113 M-73.14019627537965 19.639928758550113 C-73.46536325394717 1=
+9.204234630590786, -73.7905302325147 18.768540502631463, -74.34793059744082=
+ 18.021674793848355 M-73.14019627537965 19.639928758550113 C-73.46208639995=
+832 19.208625316408316, -73.78397652453698 18.77732187426652, -74.347930597=
+44082 18.021674793848355 M-74.34793059744082 18.021674793848355 C-74.691361=
+51423746 17.494072681534963, -75.0347924310341 16.966470569221567, -75.4495=
+0161230511 16.329365901781557 M-74.34793059744082 18.021674793848355 C-74.6=
+1384672445175 17.613156214281336, -74.87976285146269 17.204637634714317, -7=
+5.44950161230511 16.329365901781557 M-75.44950161230511 16.329365901781557 =
+C-75.7709161942312 15.758661764816107, -76.09233077615731 15.18795762785065=
+8, -76.44038272838623 14.569956142586314 M-75.44950161230511 16.32936590178=
+1557 C-75.73874819349767 15.81577930748179, -76.02799477469023 15.302192713=
+182023, -76.44038272838623 14.569956142586314 M-76.44038272838623 14.569956=
+142586314 C-76.73910315067307 13.949656794114553, -77.03782357295992 13.329=
+357445642792, -77.31650220263481 12.750675308355417 M-76.44038272838623 14.=
+569956142586314 C-76.74172878274798 13.944204612931467, -77.04307483710974 =
+13.318453083276617, -77.31650220263481 12.750675308355417 M-77.316502202634=
+81 12.750675308355417 C-77.55113989675773 12.171115667460597, -77.785777590=
+88066 11.591556026565778, -78.07425987220417 10.878999214271209 M-77.316502=
+20263481 12.750675308355417 C-77.55935207819982 12.150831420526908, -77.802=
+20195376484 11.550987532698398, -78.07425987220417 10.878999214271209 M-78.=
+07425987220417 10.878999214271209 C-78.22631060861943 10.421046622183319, -=
+78.3783613450347 9.963094030095428, -78.71054194829154 8.962618978877522 M-=
+78.07425987220417 10.878999214271209 C-78.31888093318311 10.142239553675775=
+, -78.56350199416207 9.405479893080342, -78.71054194829154 8.96261897887752=
+2 M-78.71054194829154 8.962618978877522 C-78.91101749141721 8.1981188462892=
+72, -79.11149303454289 7.433618713701023, -79.22273381136415 7.009409419623=
+911 M-78.71054194829154 8.962618978877522 C-78.82023948056705 8.54429474509=
+9737, -78.92993701284257 8.125970511321954, -79.22273381136415 7.0094094196=
+23911 M-79.22273381136415 7.009409419623911 C-79.34434913806037 6.384940420=
+447234, -79.4659644647566 5.760471421270556, -79.6087307551919 5.0273966935=
+51461 M-79.22273381136415 7.009409419623911 C-79.35580051483151 6.326140020=
+976775, -79.48886721829888 5.642870622329637, -79.6087307551919 5.027396693=
+551461 M-79.6087307551919 5.027396693551461 C-79.70417423653491 4.287155899=
+702216, -79.79961771787794 3.546915105852971, -79.86694663553646 3.02472531=
+6091999 M-79.6087307551919 5.027396693551461 C-79.67412578504083 4.52020575=
+5752437, -79.73952081488976 4.013014817953414, -79.86694663553646 3.0247253=
+16091999 M-79.86694663553646 3.024725316091999 C-79.91029860278456 2.349483=
+4331248287, -79.95365057003265 1.6742415501576582, -79.99632038795839 1.009=
+6246935071416 M-79.86694663553646 3.024725316091999 C-79.90890235318817 2.3=
+71231147620991, -79.95085807083987 1.7177369791499824, -79.99632038795839 1=
+.0096246935071416 M-79.99632038795839 1.0096246935071416 C-79.9963203879583=
+9 0.2691517561724742, -79.99632038795839 -0.4713211811621931, -79.996320387=
+95839 -1.0096246935071262 M-79.99632038795839 1.0096246935071416 C-79.99632=
+038795839 0.4802735745469682, -79.99632038795839 -0.04907754441320522, -79.=
+99632038795839 -1.0096246935071262 M-79.99632038795839 -1.0096246935071262 =
+C-79.96342894768244 -1.5219354252976949, -79.9305375074065 -2.0342461570882=
+637, -79.86694663553646 -3.024725316091956 M-79.99632038795839 -1.009624693=
+5071262 C-79.9669664852368 -1.466835422439727, -79.9376125825152 -1.9240461=
+513723277, -79.86694663553646 -3.024725316091956 M-79.86694663553646 -3.024=
+725316091956 C-79.81520856090123 -3.425995606124455, -79.76347048626599 -3.=
+827265896156954, -79.6087307551919 -5.027396693551446 M-79.86694663553646 -=
+3.024725316091956 C-79.7660439895144 -3.807306313157968, -79.66514134349232=
+ -4.58988731022398, -79.6087307551919 -5.027396693551446 M-79.6087307551919=
+ -5.027396693551446 C-79.49252172276863 -5.624105514257253, -79.37631269034=
+536 -6.220814334963061, -79.22273381136417 -7.009409419623896 M-79.60873075=
+51919 -5.027396693551446 C-79.48912231774506 -5.641560740588795, -79.369513=
+88029821 -6.255724787626144, -79.22273381136417 -7.009409419623896 M-79.222=
+73381136417 -7.009409419623896 C-79.07145364133083 -7.586306273201444, -78.=
+92017347129749 -8.163203126778992, -78.71054194829154 -8.962618978877506 M-=
+79.22273381136417 -7.009409419623896 C-79.03104432471942 -7.740404510949355=
+6, -78.83935483807467 -8.471399602274815, -78.71054194829154 -8.96261897887=
+7506 M-78.71054194829154 -8.962618978877506 C-78.5585595493269 -9.420365749=
+452179, -78.40657715036227 -9.878112520026852, -78.07425987220418 -10.87899=
+9214271168 M-78.71054194829154 -8.962618978877506 C-78.51420732767494 -9.55=
+394757450104, -78.31787270705834 -10.145276170124575, -78.07425987220418 -1=
+0.878999214271168 M-78.07425987220418 -10.878999214271168 C-77.871443866766=
+74 -11.379958668882342, -77.66862786132931 -11.880918123493514, -77.3165022=
+0263481 -12.750675308355401 M-78.07425987220418 -10.878999214271168 C-77.78=
+984951176729 -11.581498303250529, -77.5054391513304 -12.283997392229889, -7=
+7.31650220263481 -12.750675308355401 M-77.31650220263481 -12.75067530835540=
+1 C-77.03978243619257 -13.325289824227227, -76.76306266975031 -13.899904340=
+09905, -76.44038272838623 -14.5699561425863 M-77.31650220263481 -12.7506753=
+08355401 C-77.0990144435721 -13.202293293541684, -76.8815266845094 -13.6539=
+1127872797, -76.44038272838623 -14.5699561425863 M-76.44038272838623 -14.56=
+99561425863 C-76.19663785252517 -15.00274985152268, -75.95289297666413 -15.=
+43554356045906, -75.44950161230511 -16.329365901781546 M-76.44038272838623 =
+-14.5699561425863 C-76.18326082163072 -15.026502124447028, -75.926138914875=
+24 -15.483048106307756, -75.44950161230511 -16.329365901781546 M-75.4495016=
+1230511 -16.329365901781546 C-75.03927030154031 -16.95959135764744, -74.629=
+03899077551 -17.589816813513334, -74.34793059744084 -18.021674793848344 M-7=
+5.44950161230511 -16.329365901781546 C-75.11348342811213 -16.84558006621830=
+4, -74.77746524391915 -17.36179423065506, -74.34793059744084 -18.0216747938=
+48344 M-74.34793059744084 -18.021674793848344 C-74.1036467428526 -18.348992=
+904279594, -73.85936288826437 -18.676311014710848, -73.14019627537967 -19.6=
+39928758550102 M-74.34793059744084 -18.021674793848344 C-73.9398039736479 -=
+18.56852728863056, -73.53167734985497 -19.11537978341277, -73.1401962753796=
+7 -19.639928758550102 M-73.14019627537967 -19.639928758550102 C-72.86887670=
+0204 -19.958636170072616, -72.59755712502835 -20.27734358159513, -71.831261=
+48550917 -21.177478043231467 M-73.14019627537967 -19.639928758550102 C-72.6=
+5912235724817 -20.205025556668776, -72.17804843911667 -20.77012235478745, -=
+71.83126148550917 -21.177478043231467 M-71.83126148550917 -21.1774780432314=
+67 C-71.50887987933612 -21.510363519627248, -71.18649827316307 -21.84324899=
+6023032, -70.42650492164655 -22.628004528078403 M-71.83126148550917 -21.177=
+478043231467 C-71.27791891366165 -21.74884967893407, -70.72457634181411 -22=
+.32022131463668, -70.42650492164655 -22.628004528078403 M-70.42650492164655=
+ -22.628004528078403 C-70.06342188402749 -22.957746936193285, -69.700338846=
+40844 -23.287489344308167, -68.93169902983207 -23.98554768862771 M-70.42650=
+492164655 -22.628004528078403 C-69.87935251148319 -23.1249138701293, -69.33=
+220010131983 -23.6218232121802, -68.93169902983207 -23.98554768862771 M-68.=
+93169902983207 -23.98554768862771 C-68.5033540415933 -24.327141418009287, -=
+68.0750090533545 -24.668735147390866, -67.35298628811003 -25.24452908884062=
+6 M-68.93169902983207 -23.98554768862771 C-68.37093173754495 -24.4327446815=
+8234, -67.81016444525781 -24.87994167453697, -67.35298628811003 -25.2445290=
+88840626 M-67.35298628811003 -25.244529088840626 C-66.89257215219389 -25.56=
+5694059049008, -66.43215801627777 -25.886859029257394, -65.69685396576902 -=
+26.39977530409297 M-67.35298628811003 -25.244529088840626 C-66.835823667266=
+11 -25.605279345532317, -66.31866104642218 -25.96602960222401, -65.69685396=
+576902 -26.39977530409297 M-65.69685396576902 -26.39977530409297 C-65.25087=
+610106539 -26.670129706533157, -64.80489823636175 -26.940484108973344, -63.=
+97010746576076 -27.446539179886763 M-65.69685396576902 -26.39977530409297 C=
+-65.07720263180022 -26.77541158422029, -64.45755129783143 -27.1510478643476=
+1, -63.97010746576076 -27.446539179886763 M-63.97010746576076 -27.446539179=
+886763 C-63.348326058025044 -27.770922142032486, -62.726544650289334 -28.09=
+5305104178212, -62.17984235983981 -28.3805193389262 M-63.97010746576076 -27=
+.446539179886763 C-63.266364763309824 -27.813681296986704, -62.562622060858=
+89 -28.180823414086642, -62.17984235983981 -28.3805193389262 M-62.179842359=
+83981 -28.3805193389262 C-61.49646083925525 -28.68303206629643, -60.8130793=
+18670695 -28.985544793666666, -60.33341523133702 -29.19787785639968 M-62.17=
+984235983981 -28.3805193389262 C-61.54410663687323 -28.66194068505332, -60.=
+90837091390666 -28.943362031180442, -60.33341523133702 -29.19787785639968 M=
+-60.33341523133702 -29.19787785639968 C-59.59926640591166 -29.4680514105535=
+6, -58.8651175804863 -29.73822496470744, -58.438413445380796 -29.8952560308=
+36055 M-60.33341523133702 -29.19787785639968 C-59.8761370716575 -29.3661604=
+46194712, -59.41885891197798 -29.53444303598975, -58.438413445380796 -29.89=
+5256030836055 M-58.438413445380796 -29.895256030836055 C-58.026038402918815=
+ -30.017646778838003, -57.61366336045683 -30.140037526839947, -56.502623970=
+78623 -30.469788185729417 M-58.438413445380796 -29.895256030836055 C-57.962=
+63490310554 -30.03646460477082, -57.48685636083029 -30.177673178705582, -56=
+.50262397078623 -30.469788185729417 M-56.50262397078623 -30.469788185729417=
+ C-56.04407662856787 -30.574448624289705, -55.58552928634951 -30.6791090628=
+49992, -54.53400138172996 -30.919113445218553 M-56.50262397078623 -30.46978=
+8185729417 C-55.78543969459689 -30.633480816704857, -55.068255418407546 -30=
+.797173447680297, -54.53400138172996 -30.919113445218553 M-54.5340013817299=
+6 -30.919113445218553 C-54.0046835238988 -31.0046894515514, -53.47536566606=
+764 -31.09026545788425, -52.54063517069868 -31.24138543543225 M-54.53400138=
+172996 -30.919113445218553 C-53.93097106654332 -31.01660671000799, -53.3279=
+4075135669 -31.114099974797426, -52.54063517069868 -31.24138543543225 M-52.=
+54063517069868 -31.24138543543225 C-52.13792395230038 -31.280234502340033, =
+-51.73521273390208 -31.319083569247816, -50.530716507029176 -31.43527987163=
+5593 M-52.54063517069868 -31.24138543543225 C-51.90878656993376 -31.3023391=
+10038922, -51.276937969168834 -31.36329278464559, -50.530716507029176 -31.4=
+35279871635593 M-50.530716507029176 -31.435279871635593 C-50.0861863102324 =
+-31.449535089821328, -49.64165611343562 -31.463790308007063, -48.5125045776=
+36726 -31.5 M-50.530716507029176 -31.435279871635593 C-50.046425691735905 -=
+31.45081013546716, -49.562134876442634 -31.46634039929873, -48.512504577636=
+726 -31.5 M-48.512504577636726 -31.5 C-48.512504577636726 -31.5, -48.512504=
+57763672 -31.5, -48.51250457763672 -31.5 M-48.512504577636726 -31.5 C-48.51=
+2504577636726 -31.5, -48.51250457763672 -31.5, -48.51250457763672 -31.5" st=
+roke=3D"#15803d" stroke-width=3D"3" fill=3D"none" stroke-dasharray=3D"0 0" =
+style=3D"fill:#dcfce7 !important;stroke:#15803d !important;stroke-width:3px=
+ !important;rx:20 !important"></path></g><g class=3D"label" style=3D"" tran=
+sform=3D"translate(-64.63750457763672, -24)"><rect></rect><foreignObject wi=
+dth=3D"129.27500915527344" height=3D"48"><div xmlns=3D"http://www.w3.org/19=
+99/xhtml" style=3D"display: table-cell; white-space: nowrap; line-height: 1=
+.5; max-width: 200px; text-align: center;"><span class=3D"nodeLabel"><p>=F0=
+=9F=9A=80 Supplier Visits<br>ritzyardseller.com</p></span></div></foreignOb=
+ject></g></g><g class=3D"node default" id=3D"flowchart-CLICK-1" transform=
+=3D"translate(238.9312515258789, 148)"><rect class=3D"basic label-container=
+" style=3D"" x=3D"-125.2874984741211" y=3D"-27" width=3D"250.5749969482422"=
+ height=3D"54"></rect><g class=3D"label" style=3D"" transform=3D"translate(=
+-95.2874984741211, -12)"><rect></rect><foreignObject width=3D"190.574996948=
+2422" height=3D"24"><div xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"di=
+splay: table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px;=
+ text-align: center;"><span class=3D"nodeLabel"><p>=F0=9F=96=B1=EF=B8=8F Cl=
+icks 'Join as Supplier'</p></span></div></foreignObject></g></g><g class=3D=
+"node default supplier" id=3D"flowchart-STEP1-2" transform=3D"translate(238=
+.9312515258789, 300)"><rect class=3D"basic label-container" style=3D"fill:#=
+bbf7d0 !important;stroke:#15803d !important;stroke-width:2px !important;rx:=
+8 !important" x=3D"-130" y=3D"-75" width=3D"260" height=3D"150"></rect><g c=
+lass=3D"label" style=3D"" transform=3D"translate(-100, -60)"><rect></rect><=
+foreignObject width=3D"200" height=3D"120"><div xmlns=3D"http://www.w3.org/=
+1999/xhtml" style=3D"display: table; white-space: break-spaces; line-height=
+: 1.5; max-width: 200px; text-align: center; width: 200px;"><span class=3D"=
+nodeLabel"><p>=F0=9F=93=8B STEP 1: Company Info<br>Company Name, Email, Pho=
+ne<br>Contact Person, Password, T&amp;C</p></span></div></foreignObject></g=
+></g><g class=3D"node default supplier" id=3D"flowchart-STEP2-3" transform=
+=3D"translate(326.1312518119812, 476)"><rect class=3D"basic label-container=
+" style=3D"fill:#bbf7d0 !important;stroke:#15803d !important;stroke-width:2=
+px !important;rx:8 !important" x=3D"-129.0062484741211" y=3D"-51" width=3D"=
+258.0124969482422" height=3D"102"></rect><g class=3D"label" style=3D"" tran=
+sform=3D"translate(-99.0062484741211, -36)"><rect></rect><foreignObject wid=
+th=3D"198.0124969482422" height=3D"72"><div xmlns=3D"http://www.w3.org/1999=
+/xhtml" style=3D"display: table-cell; white-space: nowrap; line-height: 1.5=
+; max-width: 200px; text-align: center;"><span class=3D"nodeLabel"><p>=F0=
+=9F=93=8B STEP 2: Business Details<br>Business Description<br>Products, Add=
+ress, City</p></span></div></foreignObject></g></g><g class=3D"node default=
+ supplier" id=3D"flowchart-STEP3-4" transform=3D"translate(326.131251811981=
+2, 640)"><rect class=3D"basic label-container" style=3D"fill:#bbf7d0 !impor=
+tant;stroke:#15803d !important;stroke-width:2px !important;rx:8 !important"=
+ x=3D"-130" y=3D"-63" width=3D"260" height=3D"126"></rect><g class=3D"label=
+" style=3D"" transform=3D"translate(-100, -48)"><rect></rect><foreignObject=
+ width=3D"200" height=3D"96"><div xmlns=3D"http://www.w3.org/1999/xhtml" st=
+yle=3D"display: table; white-space: break-spaces; line-height: 1.5; max-wid=
+th: 200px; text-align: center; width: 200px;"><span class=3D"nodeLabel"><p>=
+=F0=9F=93=8E STEP 3: Upload Documents<br>PAN Card (Required)<br>Aadhaar, GS=
+T, Bank Proof</p></span></div></foreignObject></g></g><g class=3D"node defa=
+ult supplier" id=3D"flowchart-SUBMIT-5" transform=3D"translate(253.28750181=
+19812, 780)"><rect class=3D"basic label-container" style=3D"fill:#bbf7d0 !i=
+mportant;stroke:#15803d !important;stroke-width:2px !important;rx:8 !import=
+ant" x=3D"-110.6875" y=3D"-27" width=3D"221.375" height=3D"54"></rect><g cl=
+ass=3D"label" style=3D"" transform=3D"translate(-80.6875, -12)"><rect></rec=
+t><foreignObject width=3D"161.375" height=3D"24"><div xmlns=3D"http://www.w=
+3.org/1999/xhtml" style=3D"display: table-cell; white-space: nowrap; line-h=
+eight: 1.5; max-width: 200px; text-align: center;"><span class=3D"nodeLabel=
+"><p>=F0=9F=93=A4 Submit Application</p></span></div></foreignObject></g></=
+g><g class=3D"node default decision" id=3D"flowchart-VALIDATE1-6" transform=
+=3D"translate(83.2437515258789, 956.2437515258789)"><polygon points=3D"75.2=
+437515258789,0 150.4875030517578,-75.2437515258789 75.2437515258789,-150.48=
+75030517578 0,-75.2437515258789" class=3D"label-container" transform=3D"tra=
+nslate(-74.7437515258789, 75.2437515258789)" style=3D"fill:#fef9c3 !importa=
+nt;stroke:#b45309 !important;stroke-width:2px !important;diamond: !importan=
+t"></polygon><g class=3D"label" style=3D"" transform=3D"translate(-36.24375=
+1525878906, -24)"><rect></rect><foreignObject width=3D"72.48750305175781" h=
+eight=3D"48"><div xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"display: =
+table-cell; white-space: nowrap; line-height: 1.5; max-width: 200px; text-a=
+lign: center;"><span class=3D"nodeLabel"><p>=E2=9A=A1 Step 1<br>Fields OK?<=
+/p></span></div></foreignObject></g></g><g class=3D"node default decision" =
+id=3D"flowchart-VALIDATE2-7" transform=3D"translate(228.9312515258789, 1190=
+.243751525879)"><polygon points=3D"84.75625228881836,0 169.51250457763672,-=
+84.75625228881836 84.75625228881836,-169.51250457763672 0,-84.7562522888183=
+6" class=3D"label-container" transform=3D"translate(-84.25625228881836, 84.=
+75625228881836)" style=3D"fill:#fef9c3 !important;stroke:#b45309 !important=
+;stroke-width:2px !important;diamond: !important"></polygon><g class=3D"lab=
+el" style=3D"" transform=3D"translate(-45.75625228881836, -24)"><rect></rec=
+t><foreignObject width=3D"91.51250457763672" height=3D"48"><div xmlns=3D"ht=
+tp://www.w3.org/1999/xhtml" style=3D"display: table-cell; white-space: nowr=
+ap; line-height: 1.5; max-width: 200px; text-align: center;"><span class=3D=
+"nodeLabel"><p>=E2=9A=A1 PAN Card<br>Uploaded?</p></span></div></foreignObj=
+ect></g></g><g class=3D"node default decision" id=3D"flowchart-DUPLICATE-8"=
+ transform=3D"translate(288.80937576293945, 1440.7312545776367)"><polygon p=
+oints=3D"91.73125076293945,0 183.4625015258789,-91.73125076293945 91.731250=
+76293945,-183.4625015258789 0,-91.73125076293945" class=3D"label-container"=
+ transform=3D"translate(-91.23125076293945, 91.73125076293945)" style=3D"fi=
+ll:#fef9c3 !important;stroke:#b45309 !important;stroke-width:2px !important=
+;diamond: !important"></polygon><g class=3D"label" style=3D"" transform=3D"=
+translate(-52.73125076293945, -24)"><rect></rect><foreignObject width=3D"10=
+5.4625015258789" height=3D"48"><div xmlns=3D"http://www.w3.org/1999/xhtml" =
+style=3D"display: table-cell; white-space: nowrap; line-height: 1.5; max-wi=
+dth: 200px; text-align: center;"><span class=3D"nodeLabel"><p>=E2=9A=A1 Ema=
+il<br>Already Exists?</p></span></div></foreignObject></g></g><g class=3D"n=
+ode default system" id=3D"flowchart-STORE-9" transform=3D"translate(288.809=
+37576293945, 1657.4625091552734)"><rect class=3D"basic label-container" sty=
+le=3D"fill:#bfdbfe !important;stroke:#1d4ed8 !important;stroke-width:2px !i=
+mportant;rx:8 !important" x=3D"-93.03750228881836" y=3D"-51" width=3D"186.0=
+7500457763672" height=3D"102"></rect><g class=3D"label" style=3D"" transfor=
+m=3D"translate(-63.03750228881836, -36)"><rect></rect><foreignObject width=
+=3D"126.07500457763672" height=3D"72"><div xmlns=3D"http://www.w3.org/1999/=
+xhtml" style=3D"display: table-cell; white-space: nowrap; line-height: 1.5;=
+ max-width: 200px; text-align: center;"><span class=3D"nodeLabel"><p>=F0=9F=
+=92=BE System Stores<br>Application<br>Status: Pending</p></span></div></fo=
+reignObject></g></g><g class=3D"node default system" id=3D"flowchart-EMAIL-=
+10" transform=3D"translate(288.80937576293945, 1797.4625091552734)"><rect c=
+lass=3D"basic label-container" style=3D"fill:#bfdbfe !important;stroke:#1d4=
+ed8 !important;stroke-width:2px !important;rx:8 !important" x=3D"-121.61250=
+305175781" y=3D"-39" width=3D"243.22500610351562" height=3D"78"></rect><g c=
+lass=3D"label" style=3D"" transform=3D"translate(-91.61250305175781, -24)">=
+<rect></rect><foreignObject width=3D"183.22500610351562" height=3D"48"><div=
+ xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"display: table-cell; white=
+-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><s=
+pan class=3D"nodeLabel"><p>=F0=9F=93=A7 Auto Emails Sent<br>Supplier + Admi=
+n Notified</p></span></div></foreignObject></g></g><g class=3D"node default=
+ admin" id=3D"flowchart-ADMIN_REVIEW-11" transform=3D"translate(288.8093757=
+6293945, 1937.4625091552734)"><rect class=3D"basic label-container" style=
+=3D"fill:#fecaca !important;stroke:#b91c1c !important;stroke-width:2px !imp=
+ortant;rx:8 !important" x=3D"-96.28125" y=3D"-51" width=3D"192.5625" height=
+=3D"102"></rect><g class=3D"label" style=3D"" transform=3D"translate(-66.28=
+125, -36)"><rect></rect><foreignObject width=3D"132.5625" height=3D"72"><di=
+v xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"display: table-cell; whit=
+e-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><=
+span class=3D"nodeLabel"><p>=F0=9F=94=8E Admin Reviews<br>Admin Panel<br>Ve=
+rify Documents</p></span></div></foreignObject></g></g><g class=3D"node def=
+ault decision" id=3D"flowchart-APPROVE-12" transform=3D"translate(288.80937=
+576293945, 2130.97501373291)"><polygon points=3D"92.51250076293945,0 185.02=
+50015258789,-92.51250076293945 92.51250076293945,-185.0250015258789 0,-92.5=
+1250076293945" class=3D"label-container" transform=3D"translate(-92.0125007=
+6293945, 92.51250076293945)" style=3D"fill:#fef9c3 !important;stroke:#b4530=
+9 !important;stroke-width:2px !important;diamond: !important"></polygon><g =
+class=3D"label" style=3D"" transform=3D"translate(-53.51250076293945, -24)"=
+><rect></rect><foreignObject width=3D"107.0250015258789" height=3D"48"><div=
+ xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"display: table-cell; white=
+-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><s=
+pan class=3D"nodeLabel"><p>=E2=9C=85 Application<br>Approved?</p></span></d=
+iv></foreignObject></g></g><g class=3D"node default admin" id=3D"flowchart-=
+APPROVED-13" transform=3D"translate(168.40937423706055, 2348.487518310547)"=
+><rect class=3D"basic label-container" style=3D"fill:#fecaca !important;str=
+oke:#b91c1c !important;stroke-width:2px !important;rx:8 !important" x=3D"-1=
+02.70625305175781" y=3D"-51" width=3D"205.41250610351562" height=3D"102"></=
+rect><g class=3D"label" style=3D"" transform=3D"translate(-72.7062530517578=
+1, -36)"><rect></rect><foreignObject width=3D"145.41250610351562" height=3D=
+"72"><div xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"display: table-ce=
+ll; white-space: nowrap; line-height: 1.5; max-width: 200px; text-align: ce=
+nter;"><span class=3D"nodeLabel"><p>=E2=9C=85 Admin Marks<br>Approved<br>Se=
+nd Approval Email</p></span></div></foreignObject></g></g><g class=3D"node =
+default admin" id=3D"flowchart-REJECTED-14" transform=3D"translate(409.2093=
+7728881836, 2348.487518310547)"><rect class=3D"basic label-container" style=
+=3D"fill:#fecaca !important;stroke:#b91c1c !important;stroke-width:2px !imp=
+ortant;rx:8 !important" x=3D"-88.09375" y=3D"-51" width=3D"176.1875" height=
+=3D"102"></rect><g class=3D"label" style=3D"" transform=3D"translate(-58.09=
+375, -36)"><rect></rect><foreignObject width=3D"116.1875" height=3D"72"><di=
+v xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"display: table-cell; whit=
+e-space: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><=
+span class=3D"nodeLabel"><p>=E2=9D=8C Admin Marks<br>Rejected<br>Enter Reas=
+on</p></span></div></foreignObject></g></g><g class=3D"node default supplie=
+r" id=3D"flowchart-APPROVAL_EMAIL-15" transform=3D"translate(168.4093742370=
+6055, 2488.487518310547)"><rect class=3D"basic label-container" style=3D"fi=
+ll:#bbf7d0 !important;stroke:#15803d !important;stroke-width:2px !important=
+;rx:8 !important" x=3D"-91.23749923706055" y=3D"-39" width=3D"182.474998474=
+1211" height=3D"78"></rect><g class=3D"label" style=3D"" transform=3D"trans=
+late(-61.23749923706055, -24)"><rect></rect><foreignObject width=3D"122.474=
+9984741211" height=3D"48"><div xmlns=3D"http://www.w3.org/1999/xhtml" style=
+=3D"display: table-cell; white-space: nowrap; line-height: 1.5; max-width: =
+200px; text-align: center;"><span class=3D"nodeLabel"><p>=F0=9F=93=A7 Suppl=
+ier Gets<br>Approval Email</p></span></div></foreignObject></g></g><g class=
+=3D"node default supplier" id=3D"flowchart-LOGIN-16" transform=3D"translate=
+(168.40937423706055, 2616.487518310547)"><rect class=3D"basic label-contain=
+er" style=3D"fill:#bbf7d0 !important;stroke:#15803d !important;stroke-width=
+:2px !important;rx:8 !important" x=3D"-72.64374923706055" y=3D"-39" width=
+=3D"145.2874984741211" height=3D"78"></rect><g class=3D"label" style=3D"" t=
+ransform=3D"translate(-42.64374923706055, -24)"><rect></rect><foreignObject=
+ width=3D"85.2874984741211" height=3D"48"><div xmlns=3D"http://www.w3.org/1=
+999/xhtml" style=3D"display: table-cell; white-space: nowrap; line-height: =
+1.5; max-width: 200px; text-align: center;"><span class=3D"nodeLabel"><p>=
+=F0=9F=94=91 Supplier<br>Logs In</p></span></div></foreignObject></g></g><g=
+ class=3D"node default startend" id=3D"flowchart-LIVE-17" transform=3D"tran=
+slate(168.40937423706055, 2744.487518310547)"><rect class=3D"basic label-co=
+ntainer" style=3D"fill:#dcfce7 !important;stroke:#15803d !important;stroke-=
+width:3px !important;rx:20 !important" x=3D"-76.57500076293945" y=3D"-39" w=
+idth=3D"153.1500015258789" height=3D"78"></rect><g class=3D"label" style=3D=
+"" transform=3D"translate(-46.57500076293945, -24)"><rect></rect><foreignOb=
+ject width=3D"93.1500015258789" height=3D"48"><div xmlns=3D"http://www.w3.o=
+rg/1999/xhtml" style=3D"display: table-cell; white-space: nowrap; line-heig=
+ht: 1.5; max-width: 200px; text-align: center;"><span class=3D"nodeLabel"><=
+p>=F0=9F=8E=89 SUPPLIER<br>IS LIVE!</p></span></div></foreignObject></g></g=
+><g class=3D"node default supplier" id=3D"flowchart-REAPPLY-18" transform=
+=3D"translate(409.20937728881836, 2488.487518310547)"><rect class=3D"basic =
+label-container" style=3D"fill:#bbf7d0 !important;stroke:#15803d !important=
+;stroke-width:2px !important;rx:8 !important" x=3D"-88.41250228881836" y=3D=
+"-39" width=3D"176.82500457763672" height=3D"78"></rect><g class=3D"label" =
+style=3D"" transform=3D"translate(-58.41250228881836, -24)"><rect></rect><f=
+oreignObject width=3D"116.82500457763672" height=3D"48"><div xmlns=3D"http:=
+//www.w3.org/1999/xhtml" style=3D"display: table-cell; white-space: nowrap;=
+ line-height: 1.5; max-width: 200px; text-align: center;"><span class=3D"no=
+deLabel"><p>=F0=9F=94=84 Supplier Can<br>Re-Apply</p></span></div></foreign=
+Object></g></g><g class=3D"node default startend" id=3D"flowchart-CLOSED-19=
+" transform=3D"translate(409.20937728881836, 2616.487518310547)"><rect clas=
+s=3D"basic label-container" style=3D"fill:#dcfce7 !important;stroke:#15803d=
+ !important;stroke-width:3px !important;rx:20 !important" x=3D"-83.51250076=
+293945" y=3D"-39" width=3D"167.0250015258789" height=3D"78"></rect><g class=
+=3D"label" style=3D"" transform=3D"translate(-53.51250076293945, -24)"><rec=
+t></rect><foreignObject width=3D"107.0250015258789" height=3D"48"><div xmln=
+s=3D"http://www.w3.org/1999/xhtml" style=3D"display: table-cell; white-spac=
+e: nowrap; line-height: 1.5; max-width: 200px; text-align: center;"><span c=
+lass=3D"nodeLabel"><p>=F0=9F=94=B4 Application<br>Closed</p></span></div></=
+foreignObject></g></g></g></g></g></svg></div>
+  </div>
+</div>
+
+
+
+
+
+<div class=3D"mermaidTooltip" style=3D"opacity: 0;"></div></body></html>
+------MultipartBoundary--PPT4T84Ef5RjYLAr1OxYDOsWkMINkRhDxtiNcVpuCV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-20e68a93-1488-44a2-be13-8d02f5d3219d@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+body { font-family: "Segoe UI", Arial, sans-serif; background: linear-gradi=
+ent(135deg, rgb(30, 58, 95) 0%, rgb(45, 74, 111) 100%); min-height: 100vh; =
+padding: 20px; }
+
+.container { max-width: 1400px; margin: 0px auto; background: rgb(255, 255,=
+ 255); border-radius: 16px; box-shadow: rgba(0, 0, 0, 0.3) 0px 20px 60px; o=
+verflow: hidden; }
+
+.header { background: rgb(30, 58, 95); color: rgb(255, 255, 255); padding: =
+24px; text-align: center; }
+
+.header h1 { font-size: 28px; margin-bottom: 8px; }
+
+.header p { opacity: 0.8; font-size: 14px; }
+
+.legend { display: flex; justify-content: center; gap: 24px; padding: 16px;=
+ background: rgb(248, 250, 252); border-bottom: 1px solid rgb(226, 232, 240=
+); flex-wrap: wrap; }
+
+.legend-item { display: flex; align-items: center; gap: 8px; font-size: 13p=
+x; font-weight: 600; }
+
+.legend-box { width: 24px; height: 16px; border-radius: 4px; }
+
+.legend-oval { width: 24px; height: 12px; border-radius: 12px; }
+
+.legend-diamond { width: 14px; height: 14px; transform: rotate(45deg); }
+
+.chart-container { padding: 30px; overflow-x: auto; }
+
+.mermaid { display: flex; justify-content: center; }
+
+.print-btn { position: fixed; top: 20px; right: 20px; background: rgb(34, 1=
+97, 94); color: rgb(255, 255, 255); border: none; padding: 14px 24px; borde=
+r-radius: 8px; font-size: 14px; font-weight: 600; cursor: pointer; box-shad=
+ow: rgba(0, 0, 0, 0.2) 0px 4px 12px; z-index: 1000; }
+
+.print-btn:hover { background: rgb(22, 163, 74); }
+
+@media print {
+  body { background: rgb(255, 255, 255); }
+  .print-btn { display: none; }
+  .container { box-shadow: none; }
+}
+------MultipartBoundary--PPT4T84Ef5RjYLAr1OxYDOsWkMINkRhDxtiNcVpuCV------

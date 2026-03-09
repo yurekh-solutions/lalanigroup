@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<!-- saved from url=(0089)file:///C:/Users/yurek/OneDrive/Desktop/suppliermatrix/SUPPLIER_ONBOARDING_FLOWCHART.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Supplier Onboarding Flowchart – RitzYard</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Segoe UI',Arial,sans-serif;background:#f0f4f8;padding:30px 20px 60px}
+
+.page-title{text-align:center;margin-bottom:24px}
+.page-title h1{font-size:28px;font-weight:900;color:#1e293b;margin-bottom:6px}
+.page-title p{font-size:13px;color:#64748b}
+
+/* ── LEGEND ── */
+.legend{display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin-bottom:22px}
+.leg{display:flex;align-items:center;gap:7px;font-size:12px;font-weight:600;color:#334155}
+.leg-oval{width:32px;height:16px;border-radius:20px;border:2px solid}
+.leg-rect{width:28px;height:16px;border-radius:4px;border:2px solid}
+.leg-dia{width:14px;height:14px;transform:rotate(45deg);border-radius:2px;border:2px solid}
+
+/* ── CHART WRAPPER ── */
+.chart{background:#fff;border:2px solid #cbd5e1;border-radius:16px;overflow:hidden;
+  max-width:1040px;margin:0 auto;box-shadow:0 8px 32px rgba(0,0,0,.10)}
+
+.chart-header{background:#1e3a5f;color:#fff;text-align:center;
+  padding:14px 20px;font-size:17px;font-weight:800;letter-spacing:.4px}
+
+/* ── LANE HEADERS ── */
+.lane-headers{display:grid;grid-template-columns:1fr 1fr 1fr;
+  border-bottom:3px solid #cbd5e1}
+.lh{text-align:center;padding:14px 8px;font-size:13px;font-weight:800;
+  color:#fff;text-transform:uppercase;letter-spacing:.8px}
+.lh:not(:last-child){border-right:2px solid rgba(255,255,255,.25)}
+.lh-icon{font-size:22px;display:block;margin-bottom:4px}
+.lh.s{background:#15803d}.lh.c{background:#1d4ed8}.lh.a{background:#b91c1c}
+
+/* ── LANE BODY ── */
+.lane-body{display:grid;grid-template-columns:1fr 1fr 1fr;position:relative}
+.lane{padding:18px 14px;border-right:2px dashed #e2e8f0;
+  display:flex;flex-direction:column;align-items:center;gap:0;min-height:100px}
+.lane:last-child{border-right:none}
+.lane.s{background:#f0fdf4}.lane.c{background:#eff6ff}.lane.a{background:#fff1f2}
+
+/* SVG connector layer */
+.connector-layer{position:absolute;top:0;left:0;width:100%;height:100%;
+  pointer-events:none;z-index:10;overflow:visible}
+
+/* ── SHAPES ── */
+.shape{display:flex;flex-direction:column;align-items:center;justify-content:center;
+  text-align:center;position:relative;z-index:5}
+
+/* Oval */
+.oval{border-radius:60px;border:3px solid;padding:10px 18px;
+  font-size:12px;font-weight:800;line-height:1.4;width:170px;cursor:default}
+.oval:hover{filter:brightness(.95)}
+.oval.start{background:#dcfce7;border-color:#15803d;color:#14532d}
+.oval.end-g {background:#dcfce7;border-color:#15803d;color:#14532d}
+.oval.end-r {background:#fee2e2;border-color:#b91c1c;color:#7f1d1d}
+
+/* Rectangle */
+.box{border-radius:8px;border:2.5px solid;padding:11px 14px;
+  font-size:11.5px;font-weight:700;line-height:1.45;width:184px;cursor:default}
+.box:hover{filter:brightness(.96);transform:translateY(-1px);transition:.15s}
+.box .sub{font-size:10px;font-weight:500;color:rgba(0,0,0,.55);
+  margin-top:5px;line-height:1.4;display:block}
+.box.s{background:#bbf7d0;border-color:#15803d;color:#14532d}
+.box.c{background:#bfdbfe;border-color:#1d4ed8;color:#1e3a5f}
+.box.a{background:#fecaca;border-color:#b91c1c;color:#7f1d1d}
+.box.w{background:#fef9c3;border-color:#b45309;color:#78350f}
+
+/* Diamond */
+.dia-wrap{width:140px;height:130px;position:relative;flex-shrink:0}
+.dia{width:94px;height:94px;transform:rotate(45deg);border-radius:10px;
+  border:3px solid;position:absolute;top:18px;left:23px;
+  display:flex;align-items:center;justify-content:center}
+.dia.c{background:#bfdbfe;border-color:#1d4ed8}
+.dia.a{background:#fecaca;border-color:#b91c1c}
+.dia-text{transform:rotate(-45deg);font-size:10px;font-weight:800;
+  line-height:1.3;text-align:center;padding:4px}
+.dia.c .dia-text{color:#1e3a5f}.dia.a .dia-text{color:#7f1d1d}
+
+/* Arrows */
+.arr{display:flex;flex-direction:column;align-items:center;width:100%}
+.arr .ln{width:2px;background:#475569}
+.arr .tip{width:0;height:0;border-left:7px solid transparent;
+  border-right:7px solid transparent;border-top:11px solid #475569}
+.arr .lbl{font-size:10px;font-weight:700;color:#475569;
+  text-transform:uppercase;letter-spacing:.8px;margin:2px 0}
+
+/* YES/NO badge */
+.yn{width:26px;height:26px;border-radius:50%;display:flex;align-items:center;
+  justify-content:center;font-size:9.5px;font-weight:900;color:#fff;flex-shrink:0}
+.yn.y{background:#15803d}.yn.n{background:#b91c1c}
+
+/* row spacer */
+.sp{height:10px;width:100%}
+
+/* ── BOTTOM TABLES ── */
+.bottom{max-width:1040px;margin:26px auto 0;
+  display:grid;grid-template-columns:1fr 1fr;gap:20px}
+@media(max-width:700px){.bottom{grid-template-columns:1fr}}
+
+.card{background:#fff;border-radius:14px;border:2px solid #e2e8f0;overflow:hidden;
+  box-shadow:0 2px 10px rgba(0,0,0,.06)}
+.card-hd{padding:12px 18px;font-size:13px;font-weight:800;color:#fff}
+.card-hd.green{background:#15803d}.card-hd.blue{background:#1d4ed8}
+.card-hd.orange{background:#b45309}.card-hd.red{background:#b91c1c}
+table{width:100%;border-collapse:collapse}
+th{background:#f8fafc;padding:9px 14px;font-size:11px;font-weight:700;
+   color:#64748b;text-align:left;border-bottom:2px solid #e2e8f0;
+   text-transform:uppercase;letter-spacing:.5px}
+td{padding:9px 14px;font-size:12px;color:#334155;border-bottom:1px solid #f1f5f9}
+tr:last-child td{border-bottom:none}
+.rb{display:inline-block;padding:2px 9px;border-radius:20px;font-size:10px;font-weight:700}
+.rb.r{background:#fee2e2;color:#b91c1c}.rb.o{background:#f1f5f9;color:#64748b}
+
+.timeline{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
+.tl-item{padding:14px 12px;text-align:center;border-right:1px solid #e2e8f0}
+.tl-item:last-child{border-right:none}
+.tl-icon{font-size:24px;margin-bottom:6px}
+.tl-val{font-size:18px;font-weight:900;margin-bottom:3px}
+.tl-desc{font-size:10px;color:#64748b}
+.tl-item.g .tl-val{color:#15803d}
+.tl-item.b .tl-val{color:#1d4ed8}
+.tl-item.o .tl-val{color:#b45309}
+.tl-item.p .tl-val{color:#7c3aed}
+
+footer{text-align:center;margin-top:28px;font-size:11px;color:#94a3b8}
+</style>
+</head>
+<body>
+
+<div class="page-title">
+  <h1>🏭 Supplier Onboarding — Cross-Functional Flowchart</h1>
+  <p>RitzYard · Operational reference · Who does what, at every step</p>
+</div>
+
+<!-- LEGEND -->
+<div class="legend">
+  <div class="leg"><div class="leg-oval" style="background:#dcfce7;border-color:#15803d"></div>Start / End</div>
+  <div class="leg"><div class="leg-rect" style="background:#bbf7d0;border-color:#15803d"></div>Supplier Action</div>
+  <div class="leg"><div class="leg-rect" style="background:#bfdbfe;border-color:#1d4ed8"></div>System / Auto</div>
+  <div class="leg"><div class="leg-rect" style="background:#fecaca;border-color:#b91c1c"></div>Admin / Ops Action</div>
+  <div class="leg"><div class="leg-dia" style="background:#bfdbfe;border-color:#1d4ed8"></div>Decision Point</div>
+  <div class="leg"><div class="leg-rect" style="background:#fef9c3;border-color:#b45309"></div>Warning / Condition</div>
+</div>
+
+<!-- CHART -->
+<div class="chart">
+  <div class="chart-header">🏭 &nbsp; RitzYard — Supplier Onboarding Process Flow</div>
+
+  <!-- LANE HEADERS -->
+  <div class="lane-headers">
+    <div class="lh s"><span class="lh-icon">🧑‍💼</span>SUPPLIER</div>
+    <div class="lh c"><span class="lh-icon">⚙️</span>SYSTEM (AUTO)</div>
+    <div class="lh a"><span class="lh-icon">👨‍💻</span>ADMIN / OPS TEAM</div>
+  </div>
+
+  <!-- ════════ SWIM LANE ROWS ════════ -->
+  <!-- Using an SVG-based approach for clean visual arrows between lanes -->
+  <div style="position:relative;background:#fff;">
+  <svg id="svg-conn" class="connector-layer" style="display:none"></svg>
+
+  <!-- ── R1: START ── -->
+  <div style="display:grid;grid-template-columns:1fr 1fr 1fr;border-bottom:1px dashed #e2e8f0">
+    <div class="lane s" style="padding-top:28px;padding-bottom:20px">
+      <div class="shape">
+        <div class="oval start">🚀 Supplier Visits<br>ritzyardseller.com</div>
+      </div>
+      <div class="arr" style="margin-top:6px">
+        <div class="ln" style="height:14px"></div>
+        <div class="lbl">Clicks "Join as Supplier"</div>
+        <div class="ln" style="height:10px"></div>
+        <div class="tip"></div>
+      </div>
+      <div class="shape" style="margin-top:2px">
+        <div class="box s">
+          🏢 <strong>STEP 1 — Company Info</strong>
+          <span class="sub">Company Name · Email · Phone<br>Contact Person · Business Type<br>Create Password · Accept T&amp;C</span>
+        </div>
+      </div>
+      <div class="arr" style="margin-top:6px">
+        <div class="ln" style="height:10px"></div>
+        <div class="lbl">Click "Continue →"</div>
+        <div class="ln" style="height:8px"></div>
+        <div class="tip"></div>
+      </div>
+      <div class="shape" style="margin-top:2px">
+        <div class="box s">
+          📋 <strong>STEP 2 — Business Details</strong>
+          <span class="sub">Business Description<br>Products / Services Offered<br>Years in Business · Address<br>City · State · Pincode</span>
+        </div>
+      </div>
+      <div class="arr" style="margin-top:6px">
+        <div class="ln" style="height:10px"></div>
+        <div class="lbl">Click "Continue →"</div>
+        <div class="ln" style="height:8px"></div>
+        <div class="tip"></div>
+      </div>
+      <div class="shape" style="margin-top:2px">
+        <div class="box s">
+          📎 <strong>STEP 3 — Upload Documents</strong>
+          <span class="sub">🪪 PAN Card <b style="color:#b91c1c">(Required)</b><br>🆔 Aadhaar · 💰 GST<br>🏦 Bank Proof · 🖼️ Logo</span>
+        </div>
+      </div>
+      <div class="arr" style="margin-top:6px">
+        <div class="ln" style="height:10px"></div>
+        <div class="lbl">Click "Submit Application"</div>
+        <div class="ln" style="height:8px"></div>
+        <div class="tip"></div>
+      </div>
+      <div class="shape" style="margin-top:2px">
+        <div class="box s">
+          📤 <strong>Application Submitted</strong>
+          <span class="sub">Supplier confirms &amp; clicks final submit</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- SYSTEM LANE -->
+    <div class="lane c" style="padding-top:28px;padding-bottom:20px">
+
+      <!-- Validate Step 1 -->
+      <div style="height:80px"></div><!-- align with step 1 box -->
+
+      <div style="margin-top:40px;display:flex;flex-direction:column;align-items:center">
+        <div style="font-size:10px;font-weight:700;color:#1d4ed8;margin-bottom:4px">⬅ Checks form on Continue</div>
+        <div class="shape">
+          <div class="dia-wrap">
+            <div class="dia c"><div class="dia-text">Step 1<br>Fields<br>OK?</div></div>
+          </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:6px;margin-top:2px">
+          <div class="yn y">YES</div>
+          <span style="font-size:10px;color:#15803d;font-weight:700">Proceed to Step 2</span>
+        </div>
+        <div class="arr" style="margin-top:4px;width:40px">
+          <div class="ln" style="height:14px"></div>
+          <div class="tip"></div>
+        </div>
+        <div style="margin-top:4px;font-size:10px;font-weight:700;background:#fee2e2;color:#b91c1c;
+          padding:5px 10px;border-radius:8px;text-align:center;width:175px">
+          ❌ NO → Show error message<br>Supplier fixes &amp; retries
+        </div>
+      </div>
+
+      <!-- PAN check -->
+      <div style="margin-top:100px;display:flex;flex-direction:column;align-items:center">
+        <div style="font-size:10px;font-weight:700;color:#1d4ed8;margin-bottom:4px">⬅ Checks on Submit click</div>
+        <div class="shape">
+          <div class="dia-wrap">
+            <div class="dia c"><div class="dia-text">PAN Card<br>Uploaded?</div></div>
+          </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:6px;margin-top:2px">
+          <div class="yn y">YES</div>
+          <span style="font-size:10px;color:#15803d;font-weight:700">Allow submit</span>
+        </div>
+        <div class="arr" style="margin-top:4px;width:40px">
+          <div class="ln" style="height:14px"></div>
+          <div class="tip"></div>
+        </div>
+        <div style="margin-top:4px;font-size:10px;font-weight:700;background:#fee2e2;color:#b91c1c;
+          padding:5px 10px;border-radius:8px;text-align:center;width:175px">
+          ❌ NO → Submit button disabled<br>Error shown to supplier
+        </div>
+      </div>
+
+      <!-- Duplicate check -->
+      <div style="margin-top:60px;display:flex;flex-direction:column;align-items:center">
+        <div style="font-size:10px;font-weight:700;color:#1d4ed8;margin-bottom:4px">⬅ After submit received</div>
+        <div class="shape">
+          <div class="dia-wrap">
+            <div class="dia c"><div class="dia-text">Email<br>Already<br>Exists?</div></div>
+          </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:6px;margin-top:2px">
+          <div class="yn n">NO</div>
+          <span style="font-size:10px;color:#15803d;font-weight:700">New supplier — save</span>
+        </div>
+        <div class="arr" style="margin-top:4px;width:40px">
+          <div class="ln" style="height:14px"></div>
+          <div class="tip"></div>
+        </div>
+        <div style="margin-top:4px;font-size:10px;font-weight:700;background:#fee2e2;color:#b91c1c;
+          padding:5px 10px;border-radius:8px;text-align:center;width:175px">
+          ✅ YES → Error: "Email already<br>registered" — resubmit with new email
+        </div>
+      </div>
+
+      <!-- Store & emails -->
+      <div style="margin-top:30px;display:flex;flex-direction:column;align-items:center">
+        <div class="shape">
+          <div class="box c">
+            💾 <strong>System Stores Application</strong>
+            <span class="sub">Saves all fields &amp; documents<br>Encrypts password<br>Sets status → <b>"Pending"</b></span>
+          </div>
+        </div>
+        <div class="arr" style="margin-top:6px">
+          <div class="ln" style="height:12px"></div>
+          <div class="tip"></div>
+        </div>
+        <div class="shape" style="margin-top:4px">
+          <div class="box c">
+            📩 <strong>Auto Emails Sent</strong>
+            <span class="sub">→ Supplier: "Application received"<br>→ Admin: "New application alert"</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ADMIN LANE -->
+    <div class="lane a" style="padding-top:28px;padding-bottom:20px">
+      <div style="height:520px"></div><!-- push down to align with email row -->
+
+      <div style="display:flex;flex-direction:column;align-items:center">
+        <div style="font-size:10px;font-weight:700;color:#b91c1c;margin-bottom:6px">Gets notification ↑</div>
+        <div class="shape">
+          <div class="box a">
+            🔎 <strong>Admin Reviews Application</strong>
+            <span class="sub">Admin Panel → Supplier Mgmt<br>Views: PAN · GST · Bank proof<br>Checks legitimacy &amp; documents</span>
+          </div>
+        </div>
+        <div class="arr" style="margin-top:6px">
+          <div class="ln" style="height:12px"></div>
+          <div class="tip"></div>
+        </div>
+
+        <!-- DECISION: APPROVE or REJECT -->
+        <div class="shape">
+          <div class="dia-wrap">
+            <div class="dia a"><div class="dia-text">Application<br>Approved?</div></div>
+          </div>
+        </div>
+
+        <!-- YES branch -->
+        <div style="display:flex;align-items:center;gap:6px;margin-top:4px">
+          <div class="yn y">YES</div>
+          <span style="font-size:10px;color:#15803d;font-weight:700">Click "Approve"</span>
+        </div>
+        <div class="arr" style="margin-top:4px;width:40px">
+          <div class="ln" style="height:14px"></div>
+          <div class="tip"></div>
+        </div>
+        <div class="shape" style="margin-top:4px">
+          <div class="box a">
+            ✅ <strong>Admin Marks Approved</strong>
+            <span class="sub">Status changes to "Approved"<br>System auto-sends approval email</span>
+          </div>
+        </div>
+
+        <!-- NO branch -->
+        <div style="margin-top:14px;display:flex;align-items:center;gap:6px">
+          <div class="yn n">NO</div>
+          <span style="font-size:10px;color:#b91c1c;font-weight:700">Click "Reject"</span>
+        </div>
+        <div class="arr" style="margin-top:4px;width:40px">
+          <div class="ln" style="height:14px"></div>
+          <div class="tip"></div>
+        </div>
+        <div class="shape" style="margin-top:4px">
+          <div class="box a">
+            ❌ <strong>Admin Marks Rejected</strong>
+            <span class="sub">Enters rejection reason<br>System sends rejection email</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── OUTCOME ROW ── -->
+  <div style="display:grid;grid-template-columns:1fr 1fr 1fr;
+    border-top:3px solid #e2e8f0;background:#f8fafc">
+
+    <!-- Approved outcome -->
+    <div class="lane s" style="padding:20px 14px 28px;border-bottom:none">
+      <div style="font-size:10px;font-weight:700;color:#15803d;margin-bottom:8px">
+        ↙ Approval email received
+      </div>
+      <div class="shape">
+        <div class="box s">
+          📧 <strong>Supplier Gets Approval Email</strong>
+          <span class="sub">Login credentials now active</span>
+        </div>
+      </div>
+      <div class="arr" style="margin-top:6px">
+        <div class="ln" style="height:12px"></div>
+        <div class="tip"></div>
+      </div>
+      <div class="shape" style="margin-top:4px">
+        <div class="box s">
+          🔑 <strong>Supplier Logs In</strong>
+          <span class="sub">Email + password from registration</span>
+        </div>
+      </div>
+      <div class="arr" style="margin-top:6px">
+        <div class="ln" style="height:12px"></div>
+        <div class="tip"></div>
+      </div>
+      <div class="shape" style="margin-top:4px">
+        <div class="oval end-g">
+          🎉 <strong>SUPPLIER IS LIVE!</strong><br>
+          <span style="font-size:10px;font-weight:500">List products · Get buyer RFQs<br>Manage orders · Receive payments</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Middle spacer -->
+    <div class="lane c" style="border-bottom:none;padding:20px 14px 28px;justify-content:flex-start">
+      <div style="font-size:11px;font-weight:700;color:#1d4ed8;text-align:center;
+        background:#eff6ff;padding:10px 14px;border-radius:10px;border:1px solid #bfdbfe;margin-top:10px">
+        ⚙️ System sends outcome email<br>automatically to supplier
+      </div>
+    </div>
+
+    <!-- Rejected outcome -->
+    <div class="lane a" style="border-bottom:none;padding:20px 14px 28px;justify-content:flex-start">
+      <div style="font-size:10px;font-weight:700;color:#b91c1c;margin-bottom:8px">
+        Rejection email sent to supplier ↓
+      </div>
+      <div class="shape">
+        <div class="box w">
+          🔄 <strong>Supplier Can Re-Apply</strong>
+          <span class="sub">Fix documents or info<br>Re-submit from Step 1</span>
+        </div>
+      </div>
+      <div class="arr" style="margin-top:6px">
+        <div class="ln" style="height:12px"></div>
+        <div class="tip"></div>
+      </div>
+      <div class="shape" style="margin-top:4px">
+        <div class="oval end-r">
+          🔴 Application Closed<br>
+          <span style="font-size:10px;font-weight:500">If supplier does not re-apply</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </div><!-- end chart inner -->
+</div><!-- end .chart -->
+
+<!-- ════════ TIMELINE ════════ -->
+<div style="max-width:1040px;margin:24px auto 0;background:#fff;border-radius:14px;
+  border:2px solid #e2e8f0;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06)">
+  <div style="background:#1e3a5f;color:#fff;padding:12px 20px;font-size:13px;font-weight:800">
+    ⏱️ &nbsp; How Long Does the Whole Process Take?
+  </div>
+  <div class="timeline">
+    <div class="tl-item g">
+      <div class="tl-icon">📝</div>
+      <div class="tl-val">5–10 min</div>
+      <div class="tl-desc">Fill all 3 steps of the form</div>
+    </div>
+    <div class="tl-item b">
+      <div class="tl-icon">⚡</div>
+      <div class="tl-val">Instant</div>
+      <div class="tl-desc">Auto-submitted &amp; saved by system</div>
+    </div>
+    <div class="tl-item o">
+      <div class="tl-icon">🔎</div>
+      <div class="tl-val">24–48 hrs</div>
+      <div class="tl-desc">Admin review &amp; decision</div>
+    </div>
+    <div class="tl-item p">
+      <div class="tl-icon">🚀</div>
+      <div class="tl-val">Go Live!</div>
+      <div class="tl-desc">Start receiving buyer inquiries</div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════ DOCUMENTS TABLE ════════ -->
+<div style="max-width:1040px;margin:20px auto 0;background:#fff;border-radius:14px;
+  border:2px solid #e2e8f0;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06)">
+  <div style="background:#1e3a5f;color:#fff;padding:12px 20px;font-size:13px;font-weight:800">
+    📎 &nbsp; Documents Required at Step 3
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th></th><th>Document</th><th>Required?</th>
+        <th>Format</th><th>Max Size</th><th>Purpose</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>🪪</td><td><b>PAN Card</b></td><td><span class="rb r">⚠️ REQUIRED</span></td><td>PDF, JPG, PNG</td><td>5 MB</td><td>Cannot submit without this</td></tr>
+      <tr><td>🆔</td><td>Aadhaar Card</td><td><span class="rb o">Optional</span></td><td>PDF, JPG, PNG</td><td>5 MB</td><td>Owner identity proof</td></tr>
+      <tr><td>💰</td><td>GST Certificate</td><td><span class="rb o">Optional</span></td><td>PDF, JPG, PNG</td><td>5 MB</td><td>For GST-registered businesses</td></tr>
+      <tr><td>🏦</td><td>Bank Proof</td><td><span class="rb o">Optional</span></td><td>PDF, JPG, PNG</td><td>5 MB</td><td>Cancelled cheque / passbook</td></tr>
+      <tr><td>🖼️</td><td>Company Logo</td><td><span class="rb o">Optional</span></td><td>JPG, PNG</td><td>5 MB</td><td>200×200 px recommended</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<footer>RitzYard · Supplier Onboarding Cross-Functional Flowchart · Operational Reference</footer>
+
+
+
+</body></html>
